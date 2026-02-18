@@ -12,4 +12,4 @@ Change `#endpoint_url = http://localhost:8080/afc/api` to `endpoint_url = http:/
 
 
 
-To start the API, use `src.api.main:app --reload`.
+To start the API, use `uvicorn src.api.main:app --reload` from the project root.
