@@ -10,7 +10,8 @@ def create_tables():
         username TEXT,
         feedback_date DATE,
         campaign_id TEXT,
-        comment TEXT
+        comment TEXT,
+        CONSTRAINT unique_feedback UNIQUE (username, campaign_id, feedback_date)
     );
     """)
 
@@ -18,7 +19,8 @@ def create_tables():
     CREATE TABLE IF NOT EXISTS campaign_product (
         id SERIAL PRIMARY KEY,
         campaign_id TEXT,
-        product TEXT
+        product TEXT,
+        CONSTRAINT unique_campaign_product UNIQUE (campaign_id, product)
     );
     """)
 
@@ -32,6 +34,22 @@ def create_tables():
         quantity INTEGER,
         unit_price NUMERIC,
         total_amount NUMERIC
+        
+    );
+    """)
+
+    cur.execute("""
+    CREATE TABLE IF NOT EXISTS ingestion_log (
+        id SERIAL PRIMARY KEY,
+        file_name TEXT,
+        table_name TEXT,
+        rows_inserted INTEGER,
+        rows_updated INTEGER,
+        rows_skipped INTEGER,
+        status TEXT,
+        error_message TEXT,
+        duration_seconds NUMERIC,
+        ingested_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
     );
     """)
 
