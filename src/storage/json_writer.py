@@ -13,11 +13,12 @@ def serialize(obj):
 
 
 def write_feedbacks_raw(feedbacks: list[dict]) -> Path:
-    counter = 1
-    while Path(f"{RAW_DIR}/feedbacks_raw{counter}.json").exists():
-        counter += 1
     file_path = RAW_DIR / f"feedbacks_raw{counter}.json"
-
+    counter = 1
+    while file_path.exists():
+        counter += 1
+        file_path = RAW_DIR / f"feedbacks_raw{counter}.json"
+    
     with open(file_path, "w", encoding="utf-8") as f:
         json.dump(
             feedbacks,
