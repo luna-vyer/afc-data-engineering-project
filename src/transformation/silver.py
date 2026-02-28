@@ -128,11 +128,13 @@ def build_silver_feedback():
         cur = conn.cursor()
 
         # Step 1: upsert new/updated rows from bronze (without sentiment yet)
+        # DISTINCT ON (f.id) prevents duplicate source_id when campaign_product
+        # has multiple products for the same campaign_id
         cur.execute("""
             INSERT INTO silver_feedback (
                 source_id, username, feedback_date, campaign_id, product, comment
             )
-            SELECT
+            SELECT DISTINCT ON (f.id)
                 f.id,
                 TRIM(f.username),
                 f.feedback_date,
@@ -144,6 +146,7 @@ def build_silver_feedback():
             WHERE f.username IS NOT NULL
               AND f.comment IS NOT NULL
               AND f.comment <> ''
+            ORDER BY f.id
             ON CONFLICT (source_id) DO UPDATE SET
                 username = EXCLUDED.username,
                 feedback_date = EXCLUDED.feedback_date,
