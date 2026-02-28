@@ -13,8 +13,8 @@ def serialize(obj):
 
 
 def write_feedbacks_raw(feedbacks: list[dict]) -> Path:
-    file_path = RAW_DIR / f"feedbacks_raw{counter}.json"
     counter = 1
+    file_path = RAW_DIR / f"feedbacks_raw{counter}.json"
     while file_path.exists():
         counter += 1
         file_path = RAW_DIR / f"feedbacks_raw{counter}.json"
