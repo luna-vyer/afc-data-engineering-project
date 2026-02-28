@@ -4,6 +4,7 @@ from src.ingestion.load_csv import load_campaign_products, load_sales
 from src.ingestion.load_feedback_json import load_feedback_json
 from src.transformation.silver import run_silver
 from src.transformation.gold import run_gold
+from src.transformation.sentiment import run_sentiment_analysis
 
 
 def run():
@@ -31,6 +32,10 @@ def run():
     # ── SILVER: clean & enrich ─────────────────────────────
     print("\n🥈 Silver — cleaning and enriching...")
     run_silver()
+
+    # ── SENTIMENT: score feedback ──────────────────────────
+    print("\n🧠 Sentiment — analysing feedback comments...")
+    run_sentiment_analysis()
 
     # ── GOLD: aggregate for dashboards ────────────────────
     print("\n🥇 Gold — aggregating for dashboards...")
