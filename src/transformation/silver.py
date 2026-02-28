@@ -1,5 +1,8 @@
 import time
 from datetime import datetime
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+from langdetect import detect, LangDetectException
+from deep_translator import GoogleTranslator
 from src.db.connection import get_connection
 
 
@@ -19,6 +22,29 @@ def log_transformation(layer: str, table_name: str, rows_upserted: int, status: 
     finally:
         cur.close()
         conn.close()
+
+
+def translate_to_english(text: str) -> str:
+    """Detect language and translate to English if needed."""
+    try:
+        lang = detect(text)
+        if lang == "en":
+            return text
+        translated = GoogleTranslator(source="auto", target="en").translate(text)
+        return translated if translated else text
+    except LangDetectException:
+        return text
+    except Exception:
+        return text
+
+
+def get_sentiment_label(compound_score: float) -> str:
+    if compound_score >= 0.05:
+        return "positive"
+    elif compound_score <= -0.05:
+        return "negative"
+    else:
+        return "neutral"
 
 
 def build_silver_sales():
@@ -87,17 +113,21 @@ def build_silver_sales():
 
 def build_silver_feedback():
     """
-    Silver feedback: joined with campaign_product to enrich with product name.
+    Silver feedback: joined with campaign_product, translated to English, and sentiment scored.
+    All enrichment happens here so Gold can aggregate directly.
     """
     start = time.time()
     status = "SUCCESS"
     error_message = None
     rows_upserted = 0
+    rows_scored = 0
 
     try:
+        analyzer = SentimentIntensityAnalyzer()
         conn = get_connection()
         cur = conn.cursor()
 
+        # Step 1: upsert new/updated rows from bronze (without sentiment yet)
         cur.execute("""
             INSERT INTO silver_feedback (
                 source_id, username, feedback_date, campaign_id, product, comment
@@ -120,12 +150,37 @@ def build_silver_feedback():
                 campaign_id = EXCLUDED.campaign_id,
                 product = EXCLUDED.product,
                 comment = EXCLUDED.comment,
+                sentiment_score = NULL,
+                sentiment_label = NULL,
                 transformed_at = CURRENT_TIMESTAMP
         """)
         rows_upserted = cur.rowcount
         conn.commit()
+
+        # Step 2: score all unscored rows (translate if needed, then VADER)
+        cur.execute("""
+            SELECT id, comment FROM silver_feedback
+            WHERE sentiment_score IS NULL AND comment IS NOT NULL
+        """)
+        unscored = cur.fetchall()
+
+        for row_id, comment in unscored:
+            english = translate_to_english(comment)
+            compound = round(analyzer.polarity_scores(english)["compound"], 4)
+            label = get_sentiment_label(compound)
+            cur.execute("""
+                UPDATE silver_feedback
+                SET sentiment_score = %s, sentiment_label = %s
+                WHERE id = %s
+            """, (compound, label, row_id))
+            rows_scored += 1
+
+        conn.commit()
         cur.close()
         conn.close()
+
+        if rows_scored:
+            print(f"     → scored {rows_scored} comments")
 
     except Exception as e:
         status = "FAILED"
