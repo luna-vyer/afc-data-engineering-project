@@ -74,7 +74,7 @@ afc-data-engineering-project/
 │
 ├── docker/
 │   ├── .env                    # Docker environment variables
-│   └── docker-compose.yml      # PostgreSQL container definition
+│   └── docker-compose.yml      # PostgreSQL + Metabase container definitions
 │
 └── src/
     ├── api/
@@ -117,16 +117,24 @@ pip install -r requirements.txt
 
 **3. Create your `.env` file** at the project root (see [Configuration](#configuration))
 
-**4. Start the PostgreSQL database**
+**4. Start PostgreSQL and Metabase**
 ```bash
 docker-compose -f docker/docker-compose.yml up -d
 ```
 
-**5. Verify the container is running**
+**5. Verify the containers are running**
 ```bash
 docker ps
 # You should see afc_postgres running on port 5432
+# You should see afc_metabase running on port 3000
 ```
+
+**6. Create the Metabase internal database**
+```bash
+docker exec -it afc_postgres psql -U afc_user -d afc_db -c "CREATE DATABASE metabase;"
+```
+
+> Metabase takes ~60 seconds to initialize on first launch.
 
 ---
 
@@ -186,7 +194,22 @@ curl -X POST http://localhost:8000/feedback \
   -d '{"username": "user_1", "feedback_date": "2026-02-28", "campaign_id": "CAMP001", "comment": "Great chicken!"}'
 ```
 
-### Step 4 — Run the pipeline
+### Step 4 — Access the dashboards
+
+Open **http://localhost:3000** in your browser to access Metabase.
+
+Two dashboards are available:
+- **Sales Dashboard** — revenue by product, country, and over time
+- **Marketing & Sentiment Dashboard** — feedback sentiment scores, by product and campaign
+
+Connect Metabase to the database using:
+- Host: `postgres`
+- Port: `5432`
+- Database: `afc_db`
+- User: `afc_user`
+- Password: `afc_super_password`
+
+### Step 5 — Run the pipeline
 
 ```bash
 python run_pipeline.py
