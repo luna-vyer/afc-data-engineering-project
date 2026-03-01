@@ -230,18 +230,18 @@ This will execute all layers in order:
 
 Full interactive docs available at **http://localhost:8000/docs**
 
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `POST` | `/feedback` | Ingest one or multiple feedback records |
-| `GET` | `/data/sales` | Browse raw sales data (Bronze) |
-| `GET` | `/data/feedback` | Browse raw feedback data (Bronze) |
-| `GET` | `/data/campaign-products` | Browse campaign/product mapping (Bronze) |
-| `GET` | `/data/silver/sales` | Cleaned sales data (Silver) |
-| `GET` | `/data/silver/feedback` | Cleaned feedback with sentiment scores (Silver) |
-| `GET` | `/data/gold/sales-by-month` | Revenue aggregated by month/country/product (Gold) |
-| `GET` | `/data/gold/sales-by-product` | Overall product performance (Gold) |
-| `GET` | `/data/gold/feedback-by-campaign` | Feedback volume and sentiment by campaign (Gold) |
-| `GET` | `/data/ingestion-log` | Pipeline run history and status |
+|  Method |              Endpoint             |                     Description                     |
+|---------|-----------------------------------|-----------------------------------------------------|
+| `POST`  | `/feedback`                       | Ingest one or multiple feedback records             |
+| `GET`   | `/data/sales`                     | Browse raw sales data (Bronze)                      |
+| `GET`   | `/data/feedback`                  | Browse raw feedback data (Bronze)                   |
+| `GET`   | `/data/campaign-products`         | Browse campaign/product mapping (Bronze)            |
+| `GET`   | `/data/silver/sales`              | Cleaned sales data (Silver)                         |
+| `GET`   | `/data/silver/feedback`           | Cleaned feedback with sentiment scores (Silver)     |
+| `GET`   | `/data/gold/sales-by-month`       | Revenue aggregated by month/country/product (Gold)  |
+| `GET`   | `/data/gold/sales-by-product`     | Overall product performance (Gold)                  |
+| `GET`   | `/data/gold/feedback-by-campaign` | Feedback volume and sentiment by campaign (Gold)    |
+| `GET`   | `/data/ingestion-log`             | Pipeline run history and status                     |
 
 All GET endpoints support `?limit=50&offset=0` for pagination.
 `/data/gold/sales-by-month` also supports `?country=France&product=Fried+Wings` filters.
@@ -307,14 +307,14 @@ Password: afc_super_password
 
 ### Tables
 
-| Layer | Table | Description |
-|-------|-------|-------------|
-| Bronze | `sales` | Raw sales transactions |
-| Bronze | `feedback` | Raw customer feedback |
-| Bronze | `campaign_product` | Campaign to product mapping |
-| Bronze | `ingestion_log` | Pipeline run history |
-| Silver | `silver_sales` | Cleaned, deduplicated sales |
-| Silver | `silver_feedback` | Enriched feedback with sentiment scores |
-| Gold | `gold_sales_by_month` | Revenue aggregated by month/country/product |
-| Gold | `gold_sales_by_product` | Overall product performance |
-| Gold | `gold_feedback_by_campaign` | Sentiment aggregated by campaign |
+|  Layer  |            Table            |                 Description                 |
+|---------|-----------------------------|---------------------------------------------|
+| Bronze  | `sales`                     | Raw sales transactions                      |
+| Bronze  | `feedback`                  | Raw customer feedback                       |
+| Bronze  | `campaign_product`          | Campaign to product mapping                 |
+| Bronze  | `ingestion_log`             | Pipeline run history                        |
+| Silver  | `silver_sales`              | Cleaned, deduplicated sales                 |
+| Silver  | `silver_feedback`           | Enriched feedback with sentiment scores     |
+| Gold    | `gold_sales_by_month`       | Revenue aggregated by month/country/product |
+| Gold    | `gold_sales_by_product`     | Overall product performance                 |
+| Gold    | `gold_feedback_by_campaign` | Sentiment aggregated by campaign            |
