@@ -1,0 +1,1001 @@
+username,sale_date,country,product,quantity,unit_price,total_amount
+user_3861,2026-02-10,Brazil,Spicy Strips,176,59.68,10503.68
+user_252,2025-08-21,Germany,Fried Wings,216,68.51,14798.16
+user_1960,2024-09-11,China,Chicken Nuggets,320,42.94,13740.8
+user_1951,2026-04-03,USA,Fried Wings,958,45.46,43550.68
+user_213,2026-08-05,Germany,Spicy Strips,977,178.94,174824.38
+user_172,2026-12-08,China,Spicy Strips,926,13.61,12602.86
+user_1288,2024-04-19,Brazil,Spicy Strips,141,69.64,9819.24
+user_4147,2025-10-22,Germany,Fried Wings,645,24.59,15860.55
+user_4587,2025-05-04,Germany,Chicken Nuggets,117,89.63,10486.71
+user_2120,2024-07-21,Germany,Too Much Grilled Tenders,55,120.61,6633.55
+user_4179,2026-08-13,Japan,Hardcore Spicy Tenders,506,87.39,44219.34
+user_2232,2024-10-17,India,Fried Wings,809,43.94,35547.46
+user_26,2025-09-15,Germany,Grilled Tenders,351,139.72,49041.72
+user_484,2024-08-09,Japan,Chicken Nuggets,993,62.48,62042.64
+user_2346,2024-02-17,USA,Grilled Tenders,765,155.01,118582.65
+user_3305,2025-08-18,India,Hardcore Spicy Tenders,640,62.95,40288.0
+user_1944,2025-12-16,Brazil,Hardcore Spicy Tenders,936,78.51,73485.36
+user_3385,2026-11-28,India,Soft Chicken Nuggets,113,8.75,988.75
+user_4234,2025-04-23,India,Grilled Tenders,872,127.99,111607.28
+user_1019,2025-09-15,Brazil,Soft Chicken Nuggets,938,164.71,154497.98
+user_4925,2025-10-22,Canada,Chicken Nuggets,509,77.95,39676.55
+user_4963,2025-10-12,Canada,Chicken Nuggets,352,160.92,56643.84
+user_3582,2024-06-13,Japan,Chicken Nuggets,284,118.36,33614.24
+user_3635,2026-05-05,Canada,Spicy Strips,233,10.0,2330.0
+user_3468,2024-12-20,Germany,Soft Chicken Nuggets,618,49.0,30282.0
+user_225,2025-11-22,Germany,Too Much Grilled Tenders,158,92.38,14596.04
+user_3848,2024-12-06,India,Fried Wings,607,133.15,80822.05
+user_1054,2025-11-29,Brazil,Hardcore Spicy Tenders,633,196.39,124314.87
+user_1184,2026-05-01,China,Spicy Strips,767,12.41,9518.47
+user_40,2026-05-02,Canada,Soft Chicken Nuggets,998,73.4,73253.2
+user_2153,2026-03-22,USA,Hardcore Spicy Tenders,169,171.51,28985.19
+user_1787,2024-06-12,UK,Chicken Nuggets,146,158.85,23192.1
+user_4788,2024-09-26,Germany,Fried Wings,188,199.63,37530.44
+user_3444,2025-03-22,Brazil,Grilled Tenders,762,72.35,55130.7
+user_1340,2025-07-18,Germany,Chicken Nuggets,847,77.1,65303.7
+user_4619,2026-11-02,Brazil,Chicken Nuggets,121,27.36,3310.56
+user_1081,2026-11-08,France,Spicy Strips,994,67.16,66757.04
+user_678,2026-03-02,Japan,Spicy Strips,23,110.22,2535.06
+user_4163,2025-10-28,India,Spicy Strips,653,140.81,91948.93
+user_2744,2025-07-01,Brazil,Soft Chicken Nuggets,163,110.71,18045.73
+user_4981,2026-03-14,Canada,Fried Wings,897,119.94,107586.18
+user_2694,2024-01-14,UK,Too Much Grilled Tenders,305,187.28,57120.4
+user_747,2026-07-19,Canada,Chicken Nuggets,415,10.27,4262.05
+user_1373,2024-01-08,Canada,Chicken Nuggets,191,110.81,21164.71
+user_4049,2026-12-02,UK,Too Much Grilled Tenders,766,136.58,104620.28
+user_4451,2025-02-19,Canada,Soft Chicken Nuggets,455,96.17,43757.35
+user_1885,2024-07-25,Japan,Too Much Grilled Tenders,621,17.9,11115.9
+user_1185,2024-01-21,Japan,Spicy Strips,71,72.02,5113.42
+user_3600,2026-10-02,China,Hardcore Spicy Tenders,192,54.5,10464.0
+user_626,2024-05-09,India,Grilled Tenders,665,14.59,9702.35
+user_4591,2024-01-01,India,Too Much Grilled Tenders,874,12.99,11353.26
+user_2681,2025-11-24,USA,Spicy Strips,366,16.21,5932.86
+user_1475,2025-04-02,Canada,Grilled Tenders,441,122.1,53846.1
+user_250,2025-08-19,UK,Chicken Nuggets,638,197.07,125730.66
+user_2171,2024-10-30,Japan,Soft Chicken Nuggets,268,21.7,5815.6
+user_2868,2026-10-26,USA,Spicy Strips,81,117.0,9477.0
+user_2104,2025-10-29,China,Grilled Tenders,444,174.1,77300.4
+user_4661,2024-05-23,France,Hardcore Spicy Tenders,869,1.7,1477.3
+user_1333,2024-10-21,Canada,Fried Wings,91,157.79,14358.89
+user_772,2025-12-16,Brazil,Chicken Nuggets,4,16.55,66.2
+user_3039,2024-01-11,Brazil,Grilled Tenders,184,42.54,7827.36
+user_2378,2024-08-26,Japan,Spicy Strips,390,140.57,54822.3
+user_3338,2026-02-13,India,Hardcore Spicy Tenders,652,58.05,37848.6
+user_2531,2024-07-12,Japan,Too Much Grilled Tenders,436,20.35,8872.6
+user_4272,2024-02-24,Japan,Spicy Strips,936,62.85,58827.6
+user_4660,2024-11-25,Germany,Grilled Tenders,436,192.49,83925.64
+user_345,2025-01-07,Brazil,Hardcore Spicy Tenders,967,49.55,47914.85
+user_3021,2024-01-21,UK,Too Much Grilled Tenders,795,108.49,86249.55
+user_1259,2025-11-24,China,Too Much Grilled Tenders,733,64.9,47571.7
+user_3362,2025-05-27,Japan,Grilled Tenders,233,111.55,25991.15
+user_720,2024-02-21,Canada,Fried Wings,812,132.08,107248.96
+user_2086,2026-12-16,China,Spicy Strips,905,2.26,2045.3
+user_1907,2026-08-20,France,Too Much Grilled Tenders,607,38.05,23096.35
+user_4438,2024-05-24,Brazil,Hardcore Spicy Tenders,586,32.67,19144.62
+user_3754,2025-05-11,China,Too Much Grilled Tenders,489,164.78,80577.42
+user_1096,2026-04-29,Japan,Soft Chicken Nuggets,582,85.72,49889.04
+user_919,2024-12-30,Japan,Spicy Strips,848,133.68,113360.64
+user_1186,2024-07-03,France,Too Much Grilled Tenders,738,49.98,36885.24
+user_4241,2025-01-05,China,Too Much Grilled Tenders,211,161.85,34150.35
+user_4361,2025-06-17,Japan,Grilled Tenders,12,116.76,1401.12
+user_3155,2024-01-26,USA,Hardcore Spicy Tenders,117,88.0,10296.0
+user_2904,2026-10-14,USA,Too Much Grilled Tenders,315,21.83,6876.45
+user_3388,2026-03-06,USA,Chicken Nuggets,972,32.59,31677.48
+user_3347,2024-06-19,Japan,Too Much Grilled Tenders,775,199.2,154380.0
+user_1811,2026-11-01,China,Chicken Nuggets,618,109.74,67819.32
+user_2017,2024-07-25,India,Spicy Strips,712,145.43,103546.16
+user_2232,2024-04-28,UK,Grilled Tenders,663,37.78,25048.14
+user_1843,2025-04-18,France,Hardcore Spicy Tenders,715,63.9,45688.5
+user_4040,2024-11-19,USA,Soft Chicken Nuggets,609,191.03,116337.27
+user_1297,2026-11-17,China,Chicken Nuggets,493,161.31,79525.83
+user_1145,2026-11-24,Brazil,Too Much Grilled Tenders,517,160.97,83221.49
+user_313,2024-04-20,UK,Grilled Tenders,174,1.84,320.16
+user_303,2024-01-08,Germany,Grilled Tenders,396,29.21,11567.16
+user_3747,2024-04-23,France,Soft Chicken Nuggets,719,96.78,69584.82
+user_417,2024-06-04,Canada,Hardcore Spicy Tenders,481,27.51,13232.31
+user_4036,2024-11-18,UK,Too Much Grilled Tenders,621,19.44,12072.24
+user_3961,2024-01-10,Japan,Grilled Tenders,342,111.71,38204.82
+user_1027,2024-07-27,Canada,Hardcore Spicy Tenders,97,86.29,8370.13
+user_4874,2024-01-21,Brazil,Chicken Nuggets,928,65.83,61090.24
+user_4900,2024-06-29,USA,Hardcore Spicy Tenders,518,89.28,46247.04
+user_1436,2024-01-10,UK,Spicy Strips,259,43.37,11232.83
+user_4503,2024-10-07,USA,Too Much Grilled Tenders,458,145.34,66565.72
+user_2189,2024-07-20,Japan,Spicy Strips,376,196.9,74034.4
+user_1276,2025-09-01,Brazil,Soft Chicken Nuggets,211,128.44,27100.84
+user_3343,2026-05-14,Canada,Chicken Nuggets,94,171.04,16077.76
+user_95,2024-02-07,India,Too Much Grilled Tenders,987,101.9,100575.3
+user_4187,2025-05-13,India,Chicken Nuggets,686,66.06,45317.16
+user_709,2024-12-12,China,Grilled Tenders,921,66.2,60970.2
+user_3512,2024-06-22,Brazil,Grilled Tenders,546,113.22,61818.12
+user_2988,2025-10-25,UK,Too Much Grilled Tenders,42,149.0,6258.0
+user_4647,2026-07-08,Canada,Hardcore Spicy Tenders,865,105.99,91681.35
+user_4608,2026-05-26,USA,Chicken Nuggets,626,44.85,28076.1
+user_1971,2025-09-08,Germany,Hardcore Spicy Tenders,622,106.22,66068.84
+user_4785,2026-10-08,India,Chicken Nuggets,381,86.32,32887.92
+user_986,2024-07-11,Canada,Soft Chicken Nuggets,244,49.8,12151.2
+user_2402,2025-02-27,France,Fried Wings,561,92.25,51752.25
+user_2631,2026-03-20,Germany,Grilled Tenders,58,111.42,6462.36
+user_4929,2026-09-12,France,Fried Wings,131,128.25,16800.75
+user_2101,2025-09-08,UK,Spicy Strips,954,40.12,38274.48
+user_3626,2026-05-07,France,Chicken Nuggets,338,140.77,47580.26
+user_4141,2024-02-22,Japan,Spicy Strips,117,2.02,236.34
+user_2626,2026-03-06,USA,Grilled Tenders,596,181.62,108245.52
+user_4460,2025-07-17,UK,Grilled Tenders,632,140.13,88562.16
+user_4175,2024-03-16,Brazil,Spicy Strips,142,85.37,12122.54
+user_4384,2024-11-21,UK,Chicken Nuggets,365,40.91,14932.15
+user_2774,2026-05-23,Germany,Fried Wings,212,89.46,18965.52
+user_2814,2025-11-12,UK,Spicy Strips,520,20.1,10452.0
+user_855,2024-12-31,Japan,Fried Wings,256,60.0,15360.0
+user_447,2024-07-13,USA,Hardcore Spicy Tenders,366,60.65,22197.9
+user_4940,2026-03-21,UK,Soft Chicken Nuggets,605,63.46,38393.3
+user_1006,2024-08-01,Japan,Too Much Grilled Tenders,89,196.39,17478.71
+user_4435,2024-12-03,UK,Soft Chicken Nuggets,716,54.81,39243.96
+user_3586,2025-08-29,Germany,Fried Wings,457,3.69,1686.33
+user_1337,2024-09-11,Canada,Fried Wings,398,33.26,13237.48
+user_2322,2024-11-04,UK,Chicken Nuggets,717,109.7,78654.9
+user_3772,2024-02-22,Japan,Soft Chicken Nuggets,366,168.86,61802.76
+user_2968,2024-07-18,China,Hardcore Spicy Tenders,599,35.05,20994.95
+user_2441,2025-11-01,France,Fried Wings,515,134.77,69406.55
+user_4620,2026-12-24,Japan,Soft Chicken Nuggets,628,31.84,19995.52
+user_3885,2025-10-16,Germany,Chicken Nuggets,675,160.2,108135.0
+user_1966,2026-08-19,Brazil,Hardcore Spicy Tenders,266,119.67,31832.22
+user_1178,2026-11-06,Brazil,Fried Wings,710,78.73,55898.3
+user_2806,2025-09-20,Germany,Fried Wings,349,182.41,63661.09
+user_1295,2026-12-13,China,Grilled Tenders,560,197.11,110381.6
+user_2992,2025-09-28,Germany,Soft Chicken Nuggets,313,2.92,913.96
+user_401,2025-01-28,Canada,Hardcore Spicy Tenders,346,83.85,29012.1
+user_1264,2026-07-13,Canada,Too Much Grilled Tenders,297,169.73,50409.81
+user_4985,2025-01-12,Canada,Soft Chicken Nuggets,448,184.89,82830.72
+user_2236,2025-05-28,Japan,Fried Wings,668,110.92,74094.56
+user_204,2025-10-31,Japan,Hardcore Spicy Tenders,623,127.04,79145.92
+user_3656,2026-07-30,Germany,Spicy Strips,421,75.06,31600.26
+user_3503,2026-11-27,Germany,Chicken Nuggets,486,2.42,1176.12
+user_1782,2025-01-23,UK,Too Much Grilled Tenders,140,72.76,10186.4
+user_1674,2026-08-30,UK,Too Much Grilled Tenders,919,109.15,100308.85
+user_3114,2025-06-21,UK,Spicy Strips,35,24.79,867.65
+user_4379,2025-05-02,Germany,Soft Chicken Nuggets,67,54.63,3660.21
+user_4649,2026-06-01,UK,Spicy Strips,32,62.43,1997.76
+user_1793,2025-11-24,India,Grilled Tenders,852,43.28,36874.56
+user_1142,2026-08-03,India,Chicken Nuggets,884,6.9,6099.6
+user_443,2026-03-02,China,Chicken Nuggets,193,177.45,34247.85
+user_1820,2025-06-28,France,Soft Chicken Nuggets,154,162.88,25083.52
+user_55,2024-07-01,China,Too Much Grilled Tenders,307,64.43,19780.01
+user_4765,2024-08-29,Brazil,Grilled Tenders,494,181.95,89883.3
+user_4183,2026-07-11,USA,Hardcore Spicy Tenders,799,154.96,123813.04
+user_1188,2026-12-26,USA,Fried Wings,114,59.09,6736.26
+user_1581,2026-10-02,USA,Chicken Nuggets,57,53.14,3028.98
+user_2964,2026-05-06,China,Fried Wings,273,181.94,49669.62
+user_3327,2025-09-17,Brazil,Hardcore Spicy Tenders,727,35.32,25677.64
+user_2443,2026-04-29,Canada,Grilled Tenders,627,141.97,89015.19
+user_1953,2025-09-07,UK,Fried Wings,512,82.34,42158.08
+user_3788,2025-09-02,Japan,Soft Chicken Nuggets,935,37.57,35127.95
+user_1374,2024-05-13,France,Hardcore Spicy Tenders,149,56.33,8393.17
+user_1257,2025-01-09,China,Chicken Nuggets,552,21.19,11696.88
+user_1728,2026-04-07,France,Spicy Strips,496,92.58,45919.68
+user_1981,2026-09-15,Germany,Spicy Strips,611,56.63,34600.93
+user_436,2026-01-31,Brazil,Fried Wings,776,159.01,123391.76
+user_3951,2025-10-23,USA,Grilled Tenders,627,96.02,60204.54
+user_1925,2026-02-28,India,Chicken Nuggets,342,76.12,26033.04
+user_3141,2024-01-18,Canada,Grilled Tenders,62,46.85,2904.7
+user_823,2024-02-11,Japan,Chicken Nuggets,976,55.55,54216.8
+user_2304,2024-09-20,France,Grilled Tenders,720,46.84,33724.8
+user_2637,2024-11-30,Brazil,Hardcore Spicy Tenders,904,80.92,73151.68
+user_2318,2024-05-16,Germany,Spicy Strips,634,1.42,900.28
+user_3427,2024-06-11,UK,Chicken Nuggets,675,144.83,97760.25
+user_681,2024-08-29,Japan,Too Much Grilled Tenders,116,148.64,17242.24
+user_2176,2024-07-19,USA,Fried Wings,901,139.42,125617.42
+user_505,2026-11-23,USA,Spicy Strips,313,195.46,61178.98
+user_3349,2026-07-12,Japan,Grilled Tenders,378,148.35,56076.3
+user_493,2024-07-23,USA,Chicken Nuggets,284,145.05,41194.2
+user_1266,2025-05-17,China,Too Much Grilled Tenders,17,95.89,1630.13
+user_2324,2026-01-12,UK,Hardcore Spicy Tenders,312,61.54,19200.48
+user_4847,2024-05-04,France,Fried Wings,539,179.37,96680.43
+user_4191,2025-12-20,Brazil,Fried Wings,577,155.91,89960.07
+user_3784,2025-04-03,Germany,Fried Wings,715,56.02,40054.3
+user_761,2024-09-13,China,Too Much Grilled Tenders,233,80.71,18805.43
+user_915,2024-06-17,USA,Chicken Nuggets,536,197.61,105918.96
+user_1800,2025-01-23,Germany,Grilled Tenders,640,176.19,112761.6
+user_3382,2024-05-27,India,Fried Wings,347,130.06,45130.82
+user_1956,2024-05-06,Brazil,Hardcore Spicy Tenders,609,187.44,114150.96
+user_4357,2024-01-26,UK,Too Much Grilled Tenders,273,186.22,50838.06
+user_3809,2024-06-21,Brazil,Fried Wings,329,126.59,41648.11
+user_2117,2026-05-19,Brazil,Soft Chicken Nuggets,636,12.05,7663.8
+user_3770,2024-01-21,France,Hardcore Spicy Tenders,752,88.83,66800.16
+user_1108,2024-04-03,France,Spicy Strips,15,47.84,717.6
+user_1496,2025-08-19,France,Fried Wings,469,122.1,57264.9
+user_1285,2026-12-18,Canada,Soft Chicken Nuggets,945,157.51,148846.95
+user_2176,2026-10-18,Brazil,Too Much Grilled Tenders,633,174.48,110445.84
+user_4268,2026-12-25,China,Too Much Grilled Tenders,134,118.43,15869.62
+user_732,2026-08-16,Brazil,Grilled Tenders,487,99.4,48407.8
+user_4371,2026-05-11,China,Too Much Grilled Tenders,10,97.31,973.1
+user_3653,2026-06-30,Germany,Grilled Tenders,513,47.35,24290.55
+user_4629,2026-07-20,France,Fried Wings,11,157.11,1728.21
+user_4623,2025-02-09,France,Fried Wings,479,151.81,72716.99
+user_4669,2024-12-15,Japan,Too Much Grilled Tenders,794,44.58,35396.52
+user_4359,2026-10-06,India,Soft Chicken Nuggets,471,178.93,84276.03
+user_533,2026-09-06,UK,Hardcore Spicy Tenders,657,164.77,108253.89
+user_1544,2026-11-19,China,Soft Chicken Nuggets,385,158.43,60995.55
+user_1427,2024-06-17,UK,Fried Wings,539,127.75,68857.25
+user_3950,2026-01-26,India,Too Much Grilled Tenders,492,140.4,69076.8
+user_1628,2024-12-23,UK,Grilled Tenders,527,19.42,10234.34
+user_4450,2026-05-15,China,Spicy Strips,88,100.32,8828.16
+user_599,2025-03-28,France,Too Much Grilled Tenders,750,88.42,66315.0
+user_4494,2025-05-26,UK,Hardcore Spicy Tenders,197,1.1,216.7
+user_164,2026-06-15,UK,Hardcore Spicy Tenders,561,76.71,43034.31
+user_868,2025-06-12,UK,Chicken Nuggets,702,61.29,43025.58
+user_1024,2024-01-25,China,Grilled Tenders,671,185.96,124779.16
+user_989,2026-02-26,Germany,Spicy Strips,645,150.87,97311.15
+user_1864,2025-04-16,Japan,Hardcore Spicy Tenders,86,96.47,8296.42
+user_824,2025-03-30,India,Too Much Grilled Tenders,807,83.49,67376.43
+user_763,2025-03-14,Canada,Chicken Nuggets,267,107.45,28689.15
+user_3214,2024-01-04,USA,Soft Chicken Nuggets,210,58.47,12278.7
+user_78,2025-11-21,Germany,Hardcore Spicy Tenders,996,7.85,7818.6
+user_4846,2025-12-15,Canada,Fried Wings,129,73.89,9531.81
+user_4984,2025-10-07,China,Soft Chicken Nuggets,48,184.22,8842.56
+user_1311,2024-06-07,UK,Fried Wings,889,81.05,72053.45
+user_119,2024-12-12,Canada,Too Much Grilled Tenders,678,177.8,120548.4
+user_2123,2025-05-18,UK,Grilled Tenders,839,123.92,103968.88
+user_4148,2026-08-24,Germany,Soft Chicken Nuggets,917,62.17,57009.89
+user_1752,2026-03-15,Brazil,Chicken Nuggets,626,15.44,9665.44
+user_1078,2025-11-28,Canada,Hardcore Spicy Tenders,618,121.23,74920.14
+user_4641,2026-07-26,Brazil,Hardcore Spicy Tenders,693,21.59,14961.87
+user_4336,2024-10-25,India,Grilled Tenders,281,24.99,7022.19
+user_1848,2025-08-21,India,Grilled Tenders,618,188.94,116764.92
+user_3449,2025-02-15,Canada,Chicken Nuggets,552,69.91,38590.32
+user_548,2026-03-25,Canada,Spicy Strips,457,199.66,91244.62
+user_421,2025-12-05,Brazil,Hardcore Spicy Tenders,290,25.54,7406.6
+user_13,2025-09-01,France,Grilled Tenders,145,92.79,13454.55
+user_3690,2025-05-23,China,Hardcore Spicy Tenders,259,96.03,24871.77
+user_961,2025-05-24,France,Spicy Strips,886,133.14,117962.04
+user_4677,2025-09-15,Germany,Spicy Strips,949,143.26,135953.74
+user_3521,2025-06-19,India,Grilled Tenders,391,94.52,36957.32
+user_1660,2024-01-28,India,Grilled Tenders,708,51.42,36405.36
+user_2453,2025-12-09,Japan,Soft Chicken Nuggets,6,40.25,241.5
+user_4452,2025-12-06,India,Too Much Grilled Tenders,596,22.63,13487.48
+user_3273,2026-05-18,Germany,Spicy Strips,270,138.36,37357.2
+user_2733,2024-03-01,USA,Fried Wings,172,120.45,20717.4
+user_3562,2026-03-22,China,Soft Chicken Nuggets,715,139.23,99549.45
+user_1445,2024-06-05,Canada,Hardcore Spicy Tenders,676,118.74,80268.24
+user_564,2025-03-15,Japan,Spicy Strips,727,82.72,60137.44
+user_2430,2025-03-22,USA,Grilled Tenders,71,56.35,4000.85
+user_3763,2025-02-18,Germany,Chicken Nuggets,723,104.85,75806.55
+user_1982,2025-11-12,India,Grilled Tenders,139,120.2,16707.8
+user_4889,2025-05-02,China,Spicy Strips,751,133.6,100333.6
+user_1299,2026-04-29,China,Grilled Tenders,553,151.15,83585.95
+user_73,2026-02-24,China,Grilled Tenders,348,57.23,19916.04
+user_3234,2026-05-01,USA,Hardcore Spicy Tenders,970,190.45,184736.5
+user_900,2025-05-15,Germany,Chicken Nuggets,276,108.31,29893.56
+user_255,2026-11-07,China,Too Much Grilled Tenders,372,62.84,23376.48
+user_1131,2025-04-24,Brazil,Spicy Strips,823,103.03,84793.69
+user_3184,2026-01-31,USA,Chicken Nuggets,363,178.1,64650.3
+user_3917,2026-10-28,USA,Grilled Tenders,214,133.79,28631.06
+user_2715,2025-06-14,USA,Fried Wings,446,186.81,83317.26
+user_2112,2025-09-01,Brazil,Too Much Grilled Tenders,434,76.29,33109.86
+user_2297,2026-11-04,UK,Hardcore Spicy Tenders,448,51.47,23058.56
+user_3467,2026-02-19,Japan,Too Much Grilled Tenders,243,185.12,44984.16
+user_1505,2026-05-01,Germany,Chicken Nuggets,515,21.16,10897.4
+user_4532,2024-09-21,Germany,Too Much Grilled Tenders,105,42.0,4410.0
+user_2304,2024-06-29,USA,Hardcore Spicy Tenders,15,106.89,1603.35
+user_4509,2024-07-17,UK,Too Much Grilled Tenders,661,73.28,48438.08
+user_4896,2025-12-30,UK,Spicy Strips,645,112.42,72510.9
+user_1155,2026-10-21,USA,Hardcore Spicy Tenders,51,122.6,6252.6
+user_2334,2024-08-20,Brazil,Spicy Strips,306,84.37,25817.22
+user_3679,2026-05-29,France,Soft Chicken Nuggets,428,105.75,45261.0
+user_1081,2025-07-11,China,Fried Wings,530,4.76,2522.8
+user_4797,2024-10-22,Canada,Soft Chicken Nuggets,556,167.14,92929.84
+user_2240,2024-05-15,Brazil,Too Much Grilled Tenders,993,165.19,164033.67
+user_2771,2024-01-14,Brazil,Spicy Strips,228,105.04,23949.12
+user_2744,2024-07-24,Brazil,Chicken Nuggets,615,22.48,13825.2
+user_99,2024-07-09,USA,Chicken Nuggets,775,122.78,95154.5
+user_3589,2024-09-13,France,Too Much Grilled Tenders,653,44.78,29241.34
+user_363,2025-05-13,China,Soft Chicken Nuggets,978,195.64,191335.92
+user_1522,2024-04-11,India,Too Much Grilled Tenders,366,144.84,53011.44
+user_3580,2026-01-24,France,Hardcore Spicy Tenders,528,67.34,35555.52
+user_3002,2024-03-25,USA,Chicken Nuggets,761,167.2,127239.2
+user_1021,2024-06-09,China,Spicy Strips,540,151.74,81939.6
+user_1261,2025-06-15,China,Hardcore Spicy Tenders,99,17.41,1723.59
+user_3084,2026-05-26,Japan,Chicken Nuggets,570,150.88,86001.6
+user_3495,2024-03-02,Japan,Spicy Strips,63,61.82,3894.66
+user_1225,2026-04-17,China,Chicken Nuggets,29,113.73,3298.17
+user_2072,2025-02-24,USA,Soft Chicken Nuggets,88,158.3,13930.4
+user_3392,2025-08-09,France,Fried Wings,881,128.86,113525.66
+user_1146,2025-01-20,China,Hardcore Spicy Tenders,366,55.99,20492.34
+user_4450,2026-09-12,China,Fried Wings,347,178.05,61783.35
+user_1128,2026-04-12,France,Hardcore Spicy Tenders,632,132.74,83891.68
+user_49,2026-06-02,Brazil,Too Much Grilled Tenders,713,119.34,85089.42
+user_1309,2024-03-31,India,Spicy Strips,832,114.34,95130.88
+user_912,2025-07-06,Germany,Too Much Grilled Tenders,859,93.78,80557.02
+user_3095,2024-02-22,France,Too Much Grilled Tenders,559,85.04,47537.36
+user_4181,2026-06-08,Brazil,Fried Wings,326,62.6,20407.6
+user_4972,2026-10-15,Germany,Grilled Tenders,935,48.04,44917.4
+user_4540,2026-01-23,Brazil,Grilled Tenders,957,6.08,5818.56
+user_695,2026-08-23,China,Grilled Tenders,832,54.35,45219.2
+user_4175,2026-12-05,Brazil,Spicy Strips,98,30.83,3021.34
+user_2602,2025-11-07,Japan,Grilled Tenders,523,172.3,90112.9
+user_5,2024-10-09,USA,Grilled Tenders,196,143.73,28171.08
+user_3133,2024-12-13,UK,Grilled Tenders,459,32.05,14710.95
+user_1034,2025-10-21,Germany,Fried Wings,572,95.42,54580.24
+user_2523,2026-09-27,USA,Hardcore Spicy Tenders,891,95.66,85233.06
+user_3577,2025-02-09,Germany,Soft Chicken Nuggets,851,55.1,46890.1
+user_585,2025-07-14,France,Fried Wings,278,105.96,29456.88
+user_4345,2024-03-26,Germany,Spicy Strips,430,56.73,24393.9
+user_1546,2026-01-30,France,Grilled Tenders,612,19.35,11842.2
+user_1979,2024-08-03,Japan,Grilled Tenders,55,6.28,345.4
+user_2608,2024-04-03,Canada,Soft Chicken Nuggets,522,21.38,11160.36
+user_4582,2026-07-20,China,Chicken Nuggets,106,23.7,2512.2
+user_2125,2025-04-30,UK,Too Much Grilled Tenders,60,50.24,3014.4
+user_2680,2024-10-08,Canada,Chicken Nuggets,182,78.85,14350.7
+user_3725,2024-11-02,Germany,Hardcore Spicy Tenders,78,100.26,7820.28
+user_2337,2025-11-12,Canada,Soft Chicken Nuggets,621,29.63,18400.23
+user_509,2026-08-17,USA,Soft Chicken Nuggets,484,80.49,38957.16
+user_1493,2024-07-06,India,Grilled Tenders,969,34.44,33372.36
+user_1339,2025-06-14,Canada,Chicken Nuggets,167,87.56,14622.52
+user_1615,2025-02-09,UK,Chicken Nuggets,429,15.71,6739.59
+user_3616,2025-11-29,China,Hardcore Spicy Tenders,36,36.16,1301.76
+user_2433,2024-03-23,USA,Soft Chicken Nuggets,13,129.74,1686.62
+user_1124,2025-06-06,Brazil,Spicy Strips,701,18.54,12996.54
+user_4527,2024-05-24,France,Grilled Tenders,84,171.95,14443.8
+user_3346,2025-08-12,China,Chicken Nuggets,130,180.31,23440.3
+user_4122,2025-07-22,Canada,Hardcore Spicy Tenders,481,160.31,77109.11
+user_302,2024-03-24,Canada,Fried Wings,788,77.04,60707.52
+user_4303,2024-06-17,China,Too Much Grilled Tenders,590,168.65,99503.5
+user_3146,2024-01-12,India,Spicy Strips,806,168.59,135883.54
+user_4426,2025-01-18,India,Chicken Nuggets,179,134.75,24120.25
+user_4424,2026-07-23,USA,Too Much Grilled Tenders,995,133.26,132593.7
+user_2416,2025-05-05,China,Soft Chicken Nuggets,602,10.36,6236.72
+user_2085,2025-10-23,France,Fried Wings,591,187.97,111090.27
+user_3823,2026-07-09,Japan,Spicy Strips,649,183.01,118773.49
+user_22,2025-06-20,Japan,Hardcore Spicy Tenders,548,128.55,70445.4
+user_2368,2024-10-10,Germany,Soft Chicken Nuggets,644,118.04,76017.76
+user_3868,2024-09-14,UK,Grilled Tenders,542,108.25,58671.5
+user_4223,2024-10-28,Canada,Spicy Strips,552,135.38,74729.76
+user_3639,2025-11-29,India,Too Much Grilled Tenders,755,158.86,119939.3
+user_4634,2025-03-05,China,Hardcore Spicy Tenders,392,149.47,58592.24
+user_4974,2026-01-17,Japan,Fried Wings,3,135.97,407.91
+user_4743,2024-12-04,Canada,Grilled Tenders,460,15.97,7346.2
+user_1068,2025-09-22,Germany,Chicken Nuggets,283,10.9,3084.7
+user_3520,2026-11-17,India,Fried Wings,219,121.87,26689.53
+user_1295,2026-01-25,India,Spicy Strips,605,163.17,98717.85
+user_4063,2026-09-12,France,Soft Chicken Nuggets,76,56.72,4310.72
+user_2710,2024-07-11,China,Soft Chicken Nuggets,584,45.64,26653.76
+user_1040,2026-03-25,UK,Fried Wings,223,100.38,22384.74
+user_4551,2025-01-12,Canada,Soft Chicken Nuggets,152,118.46,18005.92
+user_3650,2025-09-08,Brazil,Chicken Nuggets,636,44.18,28098.48
+user_3626,2025-03-21,Japan,Hardcore Spicy Tenders,583,24.42,14236.86
+user_1426,2025-07-26,India,Fried Wings,720,43.98,31665.6
+user_1439,2024-12-12,France,Too Much Grilled Tenders,832,127.62,106179.84
+user_1219,2026-11-27,France,Soft Chicken Nuggets,897,179.43,160948.71
+user_1151,2025-04-14,Germany,Spicy Strips,392,21.73,8518.16
+user_1451,2026-07-07,France,Chicken Nuggets,133,137.45,18280.85
+user_3592,2024-02-22,UK,Chicken Nuggets,480,45.75,21960.0
+user_4028,2026-07-08,Brazil,Soft Chicken Nuggets,282,113.95,32133.9
+user_2320,2024-05-10,Canada,Too Much Grilled Tenders,334,67.99,22708.66
+user_4893,2024-04-06,USA,Spicy Strips,499,6.94,3463.06
+user_4829,2025-12-17,Brazil,Too Much Grilled Tenders,157,150.73,23664.61
+user_2844,2024-11-14,Canada,Grilled Tenders,792,63.83,50553.36
+user_2241,2025-04-29,Canada,Spicy Strips,153,142.98,21875.94
+user_1885,2024-06-24,UK,Grilled Tenders,561,115.21,64632.81
+user_2031,2025-12-04,India,Too Much Grilled Tenders,985,162.34,159904.9
+user_213,2025-11-07,China,Spicy Strips,333,170.19,56673.27
+user_1804,2026-08-23,UK,Chicken Nuggets,832,133.91,111413.12
+user_3851,2025-09-03,USA,Hardcore Spicy Tenders,897,63.08,56582.76
+user_2682,2025-04-01,Brazil,Hardcore Spicy Tenders,864,193.63,167296.32
+user_1918,2026-06-14,Japan,Hardcore Spicy Tenders,881,112.84,99412.04
+user_2293,2025-10-12,India,Grilled Tenders,322,85.31,27469.82
+user_3451,2024-04-02,India,Hardcore Spicy Tenders,845,134.19,113390.55
+user_4368,2026-12-03,Japan,Too Much Grilled Tenders,891,195.28,173994.48
+user_4651,2024-06-30,France,Chicken Nuggets,980,126.08,123558.4
+user_3835,2024-09-08,India,Too Much Grilled Tenders,15,83.41,1251.15
+user_3129,2025-08-05,France,Chicken Nuggets,577,1.82,1050.14
+user_1604,2024-01-21,India,Too Much Grilled Tenders,242,190.32,46057.44
+user_775,2026-04-17,China,Too Much Grilled Tenders,760,58.4,44384.0
+user_3421,2025-03-22,India,Hardcore Spicy Tenders,705,52.59,37075.95
+user_215,2026-12-03,China,Soft Chicken Nuggets,978,53.67,52489.26
+user_2063,2026-05-09,USA,Hardcore Spicy Tenders,844,191.99,162039.56
+user_2104,2026-01-09,India,Spicy Strips,824,130.68,107680.32
+user_3898,2026-01-16,Canada,Chicken Nuggets,733,170.64,125079.12
+user_1186,2025-03-10,Canada,Soft Chicken Nuggets,73,18.26,1332.98
+user_1971,2026-10-02,India,Spicy Strips,883,181.7,160441.1
+user_4867,2025-01-02,Brazil,Soft Chicken Nuggets,320,120.4,38528.0
+user_3101,2024-09-26,France,Too Much Grilled Tenders,556,31.95,17764.2
+user_4296,2025-09-24,Brazil,Too Much Grilled Tenders,863,173.75,149946.25
+user_3859,2026-01-17,Germany,Grilled Tenders,838,58.5,49023.0
+user_3360,2025-09-12,UK,Spicy Strips,433,105.0,45465.0
+user_4450,2025-04-30,UK,Spicy Strips,892,104.65,93347.8
+user_38,2024-08-12,China,Too Much Grilled Tenders,492,164.19,80781.48
+user_3345,2026-07-15,France,Fried Wings,465,61.33,28518.45
+user_4294,2024-12-06,France,Chicken Nuggets,691,54.87,37915.17
+user_32,2026-03-03,Canada,Chicken Nuggets,265,157.39,41708.35
+user_1729,2025-05-26,USA,Grilled Tenders,564,115.51,65147.64
+user_2323,2025-03-12,Japan,Too Much Grilled Tenders,763,33.14,25285.82
+user_279,2025-12-17,India,Chicken Nuggets,832,87.88,73116.16
+user_2499,2024-02-27,Brazil,Spicy Strips,101,133.3,13463.3
+user_1366,2026-10-20,India,Chicken Nuggets,782,192.75,150730.5
+user_4456,2026-04-07,Brazil,Soft Chicken Nuggets,377,199.1,75060.7
+user_3324,2025-11-11,USA,Too Much Grilled Tenders,689,163.38,112568.82
+user_4158,2026-01-28,France,Spicy Strips,239,24.32,5812.48
+user_3342,2026-08-30,Canada,Chicken Nuggets,181,52.48,9498.88
+user_3154,2025-04-09,UK,Too Much Grilled Tenders,902,189.01,170487.02
+user_4004,2026-09-28,Canada,Hardcore Spicy Tenders,194,180.93,35100.42
+user_3141,2024-09-15,UK,Soft Chicken Nuggets,213,74.66,15902.58
+user_3545,2025-08-16,Canada,Fried Wings,43,48.97,2105.71
+user_3711,2024-06-23,USA,Soft Chicken Nuggets,976,145.69,142193.44
+user_2305,2025-11-05,Germany,Spicy Strips,122,101.11,12335.42
+user_166,2025-10-31,China,Fried Wings,568,123.1,69920.8
+user_630,2026-10-15,France,Grilled Tenders,14,65.58,918.12
+user_2678,2026-05-31,UK,Fried Wings,411,121.2,49813.2
+user_3479,2026-10-11,Japan,Grilled Tenders,594,113.84,67620.96
+user_4743,2026-10-28,Germany,Soft Chicken Nuggets,221,142.37,31463.77
+user_4371,2025-02-19,Germany,Spicy Strips,211,125.48,26476.28
+user_806,2026-02-16,Japan,Hardcore Spicy Tenders,56,127.19,7122.64
+user_4567,2026-08-30,Brazil,Spicy Strips,889,78.75,70008.75
+user_2892,2026-03-13,UK,Soft Chicken Nuggets,935,5.9,5516.5
+user_953,2026-11-24,France,Fried Wings,805,111.07,89411.35
+user_1954,2025-09-02,France,Soft Chicken Nuggets,882,109.64,96702.48
+user_849,2024-04-03,USA,Hardcore Spicy Tenders,484,7.62,3688.08
+user_1971,2026-12-01,USA,Spicy Strips,673,115.93,78020.89
+user_3357,2026-10-19,France,Grilled Tenders,245,125.95,30857.75
+user_3991,2024-09-03,France,Spicy Strips,926,131.35,121630.1
+user_114,2024-07-04,Germany,Soft Chicken Nuggets,159,198.75,31601.25
+user_1507,2024-12-09,UK,Too Much Grilled Tenders,437,73.14,31962.18
+user_2029,2026-06-23,Japan,Too Much Grilled Tenders,331,153.18,50702.58
+user_4943,2024-09-20,Japan,Hardcore Spicy Tenders,159,133.93,21294.87
+user_1962,2024-03-14,UK,Chicken Nuggets,530,141.67,75085.1
+user_1279,2025-08-24,Germany,Grilled Tenders,737,41.86,30850.82
+user_4623,2025-02-06,France,Chicken Nuggets,43,116.29,5000.47
+user_2731,2026-10-14,USA,Hardcore Spicy Tenders,98,82.25,8060.5
+user_1509,2024-09-22,India,Fried Wings,215,193.5,41602.5
+user_4383,2025-05-03,UK,Hardcore Spicy Tenders,435,33.01,14359.35
+user_3156,2026-09-08,Japan,Soft Chicken Nuggets,474,111.97,53073.78
+user_3286,2024-05-13,Germany,Hardcore Spicy Tenders,516,3.33,1718.28
+user_2605,2024-04-26,Japan,Hardcore Spicy Tenders,388,107.37,41659.56
+user_3498,2025-05-07,USA,Chicken Nuggets,603,84.55,50983.65
+user_3161,2026-06-18,India,Grilled Tenders,999,13.3,13286.7
+user_980,2026-08-17,USA,Too Much Grilled Tenders,232,125.6,29139.2
+user_4285,2026-04-26,Canada,Grilled Tenders,640,143.1,91584.0
+user_947,2026-05-15,Brazil,Soft Chicken Nuggets,674,75.45,50853.3
+user_2204,2025-11-13,Japan,Hardcore Spicy Tenders,615,150.71,92686.65
+user_953,2024-06-11,USA,Chicken Nuggets,712,98.45,70096.4
+user_337,2025-08-15,France,Spicy Strips,347,68.61,23807.67
+user_115,2025-10-14,India,Too Much Grilled Tenders,231,33.98,7849.38
+user_2294,2024-02-01,Brazil,Spicy Strips,231,180.07,41596.17
+user_4972,2025-03-06,France,Grilled Tenders,888,110.75,98346.0
+user_2881,2026-06-22,Brazil,Hardcore Spicy Tenders,932,199.43,185868.76
+user_1853,2025-04-02,USA,Fried Wings,160,66.79,10686.4
+user_3094,2024-01-13,Germany,Hardcore Spicy Tenders,493,110.64,54545.52
+user_2876,2024-10-28,Germany,Grilled Tenders,173,119.61,20692.53
+user_2791,2024-09-12,Germany,Hardcore Spicy Tenders,859,106.22,91242.98
+user_2334,2025-03-28,Japan,Soft Chicken Nuggets,194,37.85,7342.9
+user_2840,2025-03-24,India,Too Much Grilled Tenders,12,75.25,903.0
+user_1573,2024-12-11,Canada,Spicy Strips,159,170.21,27063.39
+user_2197,2024-08-19,USA,Too Much Grilled Tenders,342,68.97,23587.74
+user_3403,2025-07-15,India,Chicken Nuggets,915,77.62,71022.3
+user_663,2026-07-07,Japan,Too Much Grilled Tenders,844,82.39,69537.16
+user_4206,2024-04-08,Canada,Soft Chicken Nuggets,166,106.94,17752.04
+user_4983,2024-11-20,Germany,Grilled Tenders,393,92.32,36281.76
+user_4478,2024-05-27,USA,Chicken Nuggets,911,165.72,150970.92
+user_1004,2026-06-21,China,Soft Chicken Nuggets,527,91.51,48225.77
+user_1337,2024-10-22,Canada,Too Much Grilled Tenders,348,174.76,60816.48
+user_4363,2024-01-12,USA,Grilled Tenders,824,77.88,64173.12
+user_1340,2025-09-27,China,Fried Wings,12,17.68,212.16
+user_2245,2025-09-16,China,Spicy Strips,969,28.49,27606.81
+user_3387,2026-05-20,China,Grilled Tenders,111,86.88,9643.68
+user_4961,2026-06-01,Canada,Too Much Grilled Tenders,511,134.78,68872.58
+user_3729,2026-04-16,Germany,Grilled Tenders,605,198.16,119886.8
+user_585,2025-04-24,Germany,Too Much Grilled Tenders,848,151.16,128183.68
+user_755,2026-01-07,UK,Spicy Strips,441,37.29,16444.89
+user_107,2024-03-22,Japan,Hardcore Spicy Tenders,720,124.3,89496.0
+user_4358,2025-11-16,Germany,Soft Chicken Nuggets,219,16.82,3683.58
+user_444,2026-04-05,Brazil,Hardcore Spicy Tenders,967,165.56,160096.52
+user_954,2025-07-01,Canada,Chicken Nuggets,216,82.13,17740.08
+user_4636,2024-04-16,France,Soft Chicken Nuggets,55,69.86,3842.3
+user_724,2026-07-12,China,Spicy Strips,738,70.22,51822.36
+user_2205,2024-06-19,India,Fried Wings,654,83.52,54622.08
+user_2594,2025-11-18,Brazil,Chicken Nuggets,459,63.7,29238.3
+user_4800,2025-07-26,UK,Soft Chicken Nuggets,578,125.52,72550.56
+user_4917,2026-01-13,USA,Spicy Strips,408,122.42,49947.36
+user_2652,2024-01-20,UK,Grilled Tenders,870,10.91,9491.7
+user_2368,2026-07-14,India,Chicken Nuggets,948,169.61,160790.28
+user_2392,2025-10-22,Brazil,Hardcore Spicy Tenders,877,177.61,155763.97
+user_439,2025-05-12,China,Spicy Strips,848,116.37,98681.76
+user_1365,2026-11-13,Brazil,Hardcore Spicy Tenders,21,127.44,2676.24
+user_1743,2026-08-27,China,Soft Chicken Nuggets,677,179.3,121386.1
+user_2045,2026-01-20,France,Soft Chicken Nuggets,120,195.21,23425.2
+user_3569,2026-01-03,Japan,Grilled Tenders,407,117.31,47745.17
+user_3996,2024-01-16,USA,Grilled Tenders,650,124.08,80652.0
+user_804,2026-09-14,UK,Chicken Nuggets,225,198.31,44619.75
+user_2506,2024-01-21,Japan,Hardcore Spicy Tenders,320,181.39,58044.8
+user_4765,2024-01-23,France,Hardcore Spicy Tenders,184,67.2,12364.8
+user_4389,2025-12-31,Germany,Grilled Tenders,955,163.28,155932.4
+user_3635,2025-04-05,France,Spicy Strips,482,95.62,46088.84
+user_1834,2026-09-08,Canada,Too Much Grilled Tenders,163,145.94,23788.22
+user_251,2026-01-07,Canada,Chicken Nuggets,764,74.19,56681.16
+user_3185,2025-07-14,Japan,Chicken Nuggets,328,38.3,12562.4
+user_1141,2025-07-21,Brazil,Spicy Strips,651,94.12,61272.12
+user_1160,2025-12-22,India,Spicy Strips,456,176.8,80620.8
+user_55,2025-03-18,Brazil,Spicy Strips,576,31.53,18161.28
+user_4493,2025-04-09,India,Too Much Grilled Tenders,625,123.01,76881.25
+user_2416,2025-03-15,USA,Soft Chicken Nuggets,632,105.51,66682.32
+user_3023,2024-04-15,UK,Grilled Tenders,240,142.35,34164.0
+user_2377,2026-11-01,Brazil,Hardcore Spicy Tenders,337,139.07,46866.59
+user_1506,2026-07-03,India,Grilled Tenders,627,180.26,113023.02
+user_3403,2024-10-25,Japan,Fried Wings,13,39.3,510.9
+user_987,2025-06-27,Brazil,Spicy Strips,23,42.55,978.65
+user_4989,2024-06-11,USA,Chicken Nuggets,180,137.3,24714.0
+user_3269,2026-11-12,Japan,Too Much Grilled Tenders,498,110.22,54889.56
+user_1303,2024-12-27,Brazil,Fried Wings,419,142.72,59799.68
+user_270,2025-12-14,UK,Too Much Grilled Tenders,834,152.6,127268.4
+user_2471,2026-05-31,Brazil,Grilled Tenders,600,79.63,47778.0
+user_4204,2026-02-02,Canada,Spicy Strips,517,169.41,87584.97
+user_4107,2026-05-11,Brazil,Fried Wings,158,63.18,9982.44
+user_3140,2026-11-27,Brazil,Spicy Strips,826,193.51,159839.26
+user_695,2024-07-08,Japan,Hardcore Spicy Tenders,272,100.09,27224.48
+user_2157,2025-05-08,France,Spicy Strips,457,190.01,86834.57
+user_4833,2026-02-27,Japan,Spicy Strips,772,173.84,134204.48
+user_4565,2026-06-22,Germany,Soft Chicken Nuggets,875,41.62,36417.5
+user_4002,2026-11-06,Canada,Hardcore Spicy Tenders,172,58.67,10091.24
+user_985,2026-10-20,Brazil,Spicy Strips,517,74.93,38738.81
+user_430,2025-08-07,Germany,Hardcore Spicy Tenders,271,167.31,45341.01
+user_2592,2024-08-27,USA,Grilled Tenders,767,82.59,63346.53
+user_2983,2026-02-24,Canada,Hardcore Spicy Tenders,312,65.29,20370.48
+user_2750,2024-09-10,Brazil,Hardcore Spicy Tenders,755,38.21,28848.55
+user_458,2026-03-14,Canada,Fried Wings,485,142.8,69258.0
+user_2993,2024-07-07,Japan,Grilled Tenders,294,156.66,46058.04
+user_2105,2026-10-22,Germany,Soft Chicken Nuggets,521,192.87,100485.27
+user_4432,2026-02-26,China,Chicken Nuggets,902,9.25,8343.5
+user_1000,2024-03-10,India,Too Much Grilled Tenders,170,144.1,24497.0
+user_4486,2026-11-11,France,Hardcore Spicy Tenders,334,71.81,23984.54
+user_2175,2026-05-27,Germany,Spicy Strips,863,8.4,7249.2
+user_2057,2025-11-01,Japan,Soft Chicken Nuggets,883,81.38,71858.54
+user_570,2024-06-10,USA,Grilled Tenders,4,198.34,793.36
+user_560,2024-11-11,Germany,Spicy Strips,738,51.51,38014.38
+user_90,2025-09-27,Germany,Hardcore Spicy Tenders,487,161.92,78855.04
+user_1868,2025-02-28,USA,Hardcore Spicy Tenders,893,19.27,17208.11
+user_2687,2025-09-15,Germany,Spicy Strips,383,47.24,18092.92
+user_3511,2025-07-03,India,Chicken Nuggets,602,159.97,96301.94
+user_1710,2026-03-06,UK,Too Much Grilled Tenders,977,140.49,137258.73
+user_4717,2026-04-03,Brazil,Hardcore Spicy Tenders,403,179.72,72427.16
+user_3481,2025-08-19,Canada,Too Much Grilled Tenders,862,9.63,8301.06
+user_1127,2024-01-23,Canada,Soft Chicken Nuggets,930,199.38,185423.4
+user_4074,2024-06-14,UK,Grilled Tenders,489,41.36,20225.04
+user_4911,2026-12-19,USA,Soft Chicken Nuggets,471,49.68,23399.28
+user_1883,2025-08-23,USA,Hardcore Spicy Tenders,306,69.4,21236.4
+user_1116,2024-05-01,Brazil,Hardcore Spicy Tenders,903,70.47,63634.41
+user_4965,2024-07-06,Germany,Chicken Nuggets,223,175.74,39190.02
+user_2430,2026-02-26,UK,Chicken Nuggets,473,121.92,57668.16
+user_94,2026-11-02,France,Spicy Strips,484,175.59,84985.56
+user_2521,2025-11-04,China,Fried Wings,314,29.05,9121.7
+user_210,2026-10-12,China,Grilled Tenders,193,10.15,1958.95
+user_2127,2026-01-27,UK,Spicy Strips,532,163.1,86769.2
+user_551,2025-10-29,Japan,Soft Chicken Nuggets,748,133.11,99566.28
+user_3835,2024-01-17,Canada,Chicken Nuggets,934,14.37,13421.58
+user_2636,2025-07-28,India,Hardcore Spicy Tenders,733,145.19,106424.27
+user_3014,2024-01-15,Brazil,Spicy Strips,728,170.83,124364.24
+user_1350,2024-07-27,China,Hardcore Spicy Tenders,229,158.37,36266.73
+user_3166,2024-10-03,Germany,Hardcore Spicy Tenders,583,118.41,69033.03
+user_2086,2026-04-07,Germany,Chicken Nuggets,80,53.73,4298.4
+user_377,2024-05-09,France,Too Much Grilled Tenders,837,97.91,81950.67
+user_2824,2026-11-08,Brazil,Too Much Grilled Tenders,628,152.63,95851.64
+user_1592,2025-05-26,Japan,Grilled Tenders,851,198.15,168625.65
+user_1056,2024-12-25,Canada,Spicy Strips,854,84.53,72188.62
+user_1781,2026-07-26,Canada,Chicken Nuggets,317,151.48,48019.16
+user_1213,2024-12-01,UK,Soft Chicken Nuggets,62,134.6,8345.2
+user_3107,2024-11-07,UK,Fried Wings,53,157.16,8329.48
+user_3553,2026-02-05,Canada,Too Much Grilled Tenders,386,178.3,68823.8
+user_3776,2025-05-07,USA,Chicken Nuggets,127,152.5,19367.5
+user_277,2024-08-08,Brazil,Chicken Nuggets,601,160.27,96322.27
+user_3070,2026-04-09,France,Soft Chicken Nuggets,991,122.17,121070.47
+user_3778,2026-12-13,Germany,Soft Chicken Nuggets,283,9.89,2798.87
+user_3519,2025-12-21,China,Grilled Tenders,946,101.32,95848.72
+user_615,2025-07-16,China,Fried Wings,23,187.47,4311.81
+user_1616,2025-01-02,Japan,Hardcore Spicy Tenders,276,198.02,54653.52
+user_1200,2024-10-27,China,Soft Chicken Nuggets,118,153.69,18135.42
+user_3710,2025-02-25,Japan,Grilled Tenders,528,7.74,4086.72
+user_1452,2025-08-03,Japan,Fried Wings,188,96.05,18057.4
+user_2309,2024-11-28,Germany,Hardcore Spicy Tenders,452,191.71,86652.92
+user_3255,2026-06-08,Brazil,Spicy Strips,137,193.3,26482.1
+user_4434,2026-11-28,France,Spicy Strips,243,175.47,42639.21
+user_4198,2024-07-25,UK,Hardcore Spicy Tenders,486,121.56,59078.16
+user_4873,2026-07-19,India,Too Much Grilled Tenders,447,141.25,63138.75
+user_1245,2024-04-05,Japan,Hardcore Spicy Tenders,922,159.28,146856.16
+user_4306,2024-07-22,Japan,Fried Wings,684,41.7,28522.8
+user_1817,2024-10-02,Japan,Spicy Strips,939,173.94,163329.66
+user_727,2024-11-21,Brazil,Spicy Strips,575,156.01,89705.75
+user_3708,2024-11-19,India,Chicken Nuggets,564,199.65,112602.6
+user_1807,2026-03-12,Canada,Hardcore Spicy Tenders,693,13.54,9383.22
+user_152,2026-09-07,India,Spicy Strips,756,18.28,13819.68
+user_2287,2026-03-10,USA,Spicy Strips,366,168.45,61652.7
+user_1671,2026-02-03,UK,Grilled Tenders,747,14.1,10532.7
+user_2895,2025-06-13,UK,Hardcore Spicy Tenders,300,89.53,26859.0
+user_4707,2024-12-25,Japan,Hardcore Spicy Tenders,377,100.42,37858.34
+user_2323,2025-11-24,UK,Grilled Tenders,909,123.58,112334.22
+user_3801,2026-07-22,China,Grilled Tenders,594,128.63,76406.22
+user_2673,2026-05-22,France,Soft Chicken Nuggets,112,80.03,8963.36
+user_1402,2025-12-19,USA,Spicy Strips,131,36.16,4736.96
+user_1294,2026-11-11,France,Soft Chicken Nuggets,511,42.93,21937.23
+user_4127,2025-02-04,France,Fried Wings,961,55.54,53373.94
+user_1481,2024-02-02,Canada,Chicken Nuggets,349,147.15,51355.35
+user_3016,2025-01-07,India,Soft Chicken Nuggets,976,151.4,147766.4
+user_4810,2024-09-25,China,Too Much Grilled Tenders,487,120.36,58615.32
+user_3742,2026-02-07,Germany,Hardcore Spicy Tenders,342,121.64,41600.88
+user_2055,2024-07-02,China,Fried Wings,705,153.9,108499.5
+user_3876,2025-02-04,Canada,Hardcore Spicy Tenders,581,22.97,13345.57
+user_3143,2025-07-05,USA,Soft Chicken Nuggets,370,38.58,14274.6
+user_1758,2024-03-28,Canada,Hardcore Spicy Tenders,714,195.78,139786.92
+user_3559,2026-08-11,India,Hardcore Spicy Tenders,461,141.08,65037.88
+user_639,2026-12-03,UK,Spicy Strips,401,67.61,27111.61
+user_2263,2024-04-09,France,Fried Wings,588,172.15,101224.2
+user_2265,2025-06-09,Brazil,Too Much Grilled Tenders,834,100.71,83992.14
+user_3217,2026-01-27,Brazil,Hardcore Spicy Tenders,70,130.33,9123.1
+user_4811,2026-01-17,Germany,Too Much Grilled Tenders,865,94.23,81508.95
+user_1710,2026-10-16,USA,Spicy Strips,181,151.11,27350.91
+user_4710,2024-03-30,UK,Spicy Strips,963,13.93,13414.59
+user_227,2024-01-28,Canada,Hardcore Spicy Tenders,254,196.29,49857.66
+user_898,2026-02-08,France,Spicy Strips,848,22.64,19198.72
+user_1787,2025-04-06,USA,Hardcore Spicy Tenders,484,91.84,44450.56
+user_4109,2025-08-28,Brazil,Hardcore Spicy Tenders,840,196.36,164942.4
+user_3427,2026-08-20,USA,Chicken Nuggets,859,6.6,5669.4
+user_746,2026-11-01,Brazil,Fried Wings,286,76.11,21767.46
+user_1412,2026-07-02,China,Chicken Nuggets,736,193.85,142673.6
+user_784,2026-12-26,Japan,Spicy Strips,512,192.1,98355.2
+user_1717,2025-09-19,Canada,Fried Wings,743,113.51,84337.93
+user_4495,2024-06-21,Canada,Too Much Grilled Tenders,679,178.14,120957.06
+user_619,2026-06-15,India,Chicken Nuggets,45,145.53,6548.85
+user_661,2025-09-11,Germany,Chicken Nuggets,70,170.48,11933.6
+user_1758,2024-09-27,Canada,Hardcore Spicy Tenders,402,151.98,61095.96
+user_1095,2024-01-31,Japan,Spicy Strips,54,6.33,341.82
+user_3536,2026-01-23,USA,Grilled Tenders,85,48.25,4101.25
+user_2595,2026-11-30,Germany,Grilled Tenders,125,49.03,6128.75
+user_2640,2024-02-02,Japan,Soft Chicken Nuggets,206,34.26,7057.56
+user_541,2024-07-24,UK,Fried Wings,321,62.05,19918.05
+user_4542,2026-12-19,Brazil,Chicken Nuggets,964,16.65,16050.6
+user_1107,2025-04-15,India,Too Much Grilled Tenders,746,195.02,145484.92
+user_4045,2025-05-18,Japan,Fried Wings,701,135.13,94726.13
+user_4065,2024-10-29,UK,Hardcore Spicy Tenders,518,60.88,31535.84
+user_3560,2025-01-02,China,Fried Wings,494,192.03,94862.82
+user_867,2026-03-16,Germany,Soft Chicken Nuggets,490,178.3,87367.0
+user_1290,2024-08-12,Germany,Chicken Nuggets,145,12.53,1816.85
+user_1852,2024-02-13,Brazil,Spicy Strips,508,104.6,53136.8
+user_2948,2025-06-04,USA,Soft Chicken Nuggets,707,46.71,33023.97
+user_2127,2024-12-15,Japan,Too Much Grilled Tenders,527,186.42,98243.34
+user_3095,2026-12-18,UK,Soft Chicken Nuggets,446,7.04,3139.84
+user_225,2026-12-12,Canada,Too Much Grilled Tenders,612,42.42,25961.04
+user_1743,2026-01-13,India,Grilled Tenders,214,29.63,6340.82
+user_1647,2026-11-04,UK,Spicy Strips,466,118.39,55169.74
+user_1505,2026-09-01,UK,Fried Wings,848,54.56,46266.88
+user_2769,2025-08-15,Germany,Too Much Grilled Tenders,445,121.94,54263.3
+user_3845,2024-07-07,UK,Too Much Grilled Tenders,177,99.13,17546.01
+user_851,2025-05-06,China,Too Much Grilled Tenders,677,59.09,40003.93
+user_1057,2024-03-06,Brazil,Too Much Grilled Tenders,92,90.37,8314.04
+user_2283,2025-01-06,India,Soft Chicken Nuggets,322,80.97,26072.34
+user_4810,2024-08-30,China,Grilled Tenders,770,40.43,31131.1
+user_439,2024-11-11,Germany,Fried Wings,64,120.31,7699.84
+user_4855,2026-10-18,Japan,Fried Wings,62,164.14,10176.68
+user_928,2026-04-01,India,Soft Chicken Nuggets,398,84.24,33527.52
+user_1781,2025-02-18,UK,Hardcore Spicy Tenders,71,78.9,5601.9
+user_4082,2026-09-17,India,Too Much Grilled Tenders,672,108.96,73221.12
+user_825,2025-04-02,UK,Hardcore Spicy Tenders,792,7.54,5971.68
+user_3555,2026-03-10,France,Too Much Grilled Tenders,814,183.87,149670.18
+user_3716,2026-04-14,Canada,Soft Chicken Nuggets,952,185.25,176358.0
+user_1444,2025-09-08,UK,Hardcore Spicy Tenders,761,37.78,28750.58
+user_3677,2024-12-10,USA,Hardcore Spicy Tenders,898,192.55,172909.9
+user_859,2024-12-16,USA,Grilled Tenders,286,61.41,17563.26
+user_3084,2024-07-30,UK,Spicy Strips,863,14.97,12919.11
+user_1796,2025-02-20,Brazil,Grilled Tenders,473,27.63,13068.99
+user_4389,2024-08-11,UK,Hardcore Spicy Tenders,603,65.56,39532.68
+user_4374,2026-09-08,UK,Hardcore Spicy Tenders,514,147.77,75953.78
+user_634,2026-03-20,China,Soft Chicken Nuggets,164,71.52,11729.28
+user_3859,2025-02-08,Canada,Fried Wings,580,21.33,12371.4
+user_1666,2024-06-07,UK,Too Much Grilled Tenders,973,34.81,33870.13
+user_4161,2025-12-22,India,Spicy Strips,130,28.21,3667.3
+user_4185,2025-07-12,China,Fried Wings,262,50.98,13356.76
+user_817,2024-03-06,France,Fried Wings,302,28.4,8576.8
+user_4256,2026-09-13,Japan,Soft Chicken Nuggets,116,44.97,5216.52
+user_1950,2025-10-25,China,Grilled Tenders,617,110.11,67937.87
+user_3471,2024-05-21,Germany,Fried Wings,909,90.94,82664.46
+user_292,2026-09-29,India,Fried Wings,345,126.86,43766.7
+user_396,2024-06-26,China,Grilled Tenders,974,41.55,40469.7
+user_1886,2025-06-14,UK,Too Much Grilled Tenders,887,167.5,148572.5
+user_988,2026-03-21,USA,Fried Wings,164,137.88,22612.32
+user_799,2025-08-27,Canada,Too Much Grilled Tenders,335,162.42,54410.7
+user_3603,2025-03-26,Japan,Fried Wings,517,8.55,4420.35
+user_503,2026-09-05,India,Spicy Strips,371,164.52,61036.92
+user_3958,2024-11-20,France,Chicken Nuggets,716,180.54,129266.64
+user_2899,2026-03-12,China,Hardcore Spicy Tenders,241,2.8,674.8
+user_4838,2024-05-23,USA,Hardcore Spicy Tenders,83,41.18,3417.94
+user_2373,2026-12-14,USA,Grilled Tenders,924,60.4,55809.6
+user_3785,2026-06-02,Germany,Hardcore Spicy Tenders,647,179.72,116278.84
+user_2466,2025-12-29,Japan,Too Much Grilled Tenders,190,9.61,1825.9
+user_4656,2024-11-12,Germany,Hardcore Spicy Tenders,507,46.35,23499.45
+user_217,2026-03-20,India,Fried Wings,710,81.58,57921.8
+user_1100,2026-09-01,France,Fried Wings,37,132.67,4908.79
+user_1583,2025-12-29,France,Too Much Grilled Tenders,394,149.51,58906.94
+user_2518,2024-02-16,USA,Too Much Grilled Tenders,789,63.11,49793.79
+user_1881,2026-11-18,China,Hardcore Spicy Tenders,88,102.18,8991.84
+user_545,2025-10-23,USA,Soft Chicken Nuggets,566,141.89,80309.74
+user_266,2025-01-01,UK,Grilled Tenders,184,108.93,20043.12
+user_2624,2024-06-29,Canada,Spicy Strips,713,199.07,141936.91
+user_1151,2024-03-04,France,Hardcore Spicy Tenders,727,88.61,64419.47
+user_89,2026-04-22,Canada,Fried Wings,877,1.29,1131.33
+user_193,2024-11-29,Brazil,Spicy Strips,278,192.29,53456.62
+user_61,2025-10-11,Germany,Spicy Strips,90,93.07,8376.3
+user_2093,2024-02-08,USA,Fried Wings,549,196.33,107785.17
+user_2361,2024-01-06,Brazil,Hardcore Spicy Tenders,320,35.34,11308.8
+user_1415,2024-12-29,Japan,Fried Wings,660,81.01,53466.6
+user_873,2025-12-21,Brazil,Grilled Tenders,343,95.04,32598.72
+user_877,2024-09-24,Japan,Too Much Grilled Tenders,862,13.82,11912.84
+user_708,2026-10-12,Canada,Grilled Tenders,18,80.2,1443.6
+user_2334,2025-09-29,Canada,Fried Wings,847,182.69,154738.43
+user_3932,2024-10-19,China,Chicken Nuggets,123,72.82,8956.86
+user_4852,2024-04-09,Japan,Fried Wings,470,22.62,10631.4
+user_253,2025-09-01,China,Hardcore Spicy Tenders,570,72.72,41450.4
+user_3874,2026-09-20,USA,Grilled Tenders,422,64.24,27109.28
+user_2636,2026-01-18,Brazil,Too Much Grilled Tenders,788,1.91,1505.08
+user_2755,2026-01-24,India,Chicken Nuggets,323,77.69,25093.87
+user_738,2024-05-04,Japan,Soft Chicken Nuggets,431,192.67,83040.77
+user_1095,2024-04-13,India,Hardcore Spicy Tenders,429,1.68,720.72
+user_833,2024-05-06,China,Spicy Strips,828,140.8,116582.4
+user_2099,2026-09-29,Japan,Soft Chicken Nuggets,246,121.89,29984.94
+user_4335,2026-12-16,France,Grilled Tenders,331,31.13,10304.03
+user_3860,2025-02-25,USA,Spicy Strips,977,49.25,48117.25
+user_4740,2025-11-15,UK,Too Much Grilled Tenders,425,112.32,47736.0
+user_2336,2026-05-08,Japan,Fried Wings,200,27.58,5516.0
+user_2552,2026-08-10,Germany,Chicken Nuggets,139,16.4,2279.6
+user_2688,2024-07-12,UK,Spicy Strips,959,193.66,185719.94
+user_602,2024-05-26,China,Spicy Strips,886,147.64,130809.04
+user_1322,2025-06-24,USA,Soft Chicken Nuggets,523,143.64,75123.72
+user_1288,2025-03-06,UK,Spicy Strips,688,100.8,69350.4
+user_3537,2024-05-31,China,Hardcore Spicy Tenders,821,135.97,111631.37
+user_4224,2025-12-25,France,Hardcore Spicy Tenders,616,45.39,27960.24
+user_429,2024-04-30,India,Hardcore Spicy Tenders,736,119.42,87893.12
+user_2586,2026-06-30,Brazil,Too Much Grilled Tenders,813,1.72,1398.36
+user_4945,2026-12-13,India,Fried Wings,412,108.52,44710.24
+user_1893,2025-03-25,Japan,Fried Wings,163,69.12,11266.56
+user_777,2024-03-27,USA,Soft Chicken Nuggets,869,182.07,158218.83
+user_3589,2025-02-02,Brazil,Fried Wings,916,177.19,162306.04
+user_926,2024-11-24,China,Soft Chicken Nuggets,350,53.47,18714.5
+user_4458,2024-11-18,Brazil,Spicy Strips,132,32.55,4296.6
+user_4561,2024-03-07,China,Hardcore Spicy Tenders,963,64.8,62402.4
+user_3929,2024-02-04,USA,Hardcore Spicy Tenders,872,38.16,33275.52
+user_14,2024-11-18,Germany,Hardcore Spicy Tenders,790,168.57,133170.3
+user_2705,2024-08-25,India,Hardcore Spicy Tenders,134,4.91,657.94
+user_3720,2026-12-01,Japan,Hardcore Spicy Tenders,147,12.41,1824.27
+user_4911,2024-06-14,France,Soft Chicken Nuggets,708,173.78,123036.24
+user_4174,2026-03-03,UK,Grilled Tenders,771,141.82,109343.22
+user_3446,2025-11-07,USA,Grilled Tenders,757,28.88,21862.16
+user_1455,2026-08-15,France,Grilled Tenders,755,194.81,147081.55
+user_3630,2025-05-11,Japan,Soft Chicken Nuggets,215,128.93,27719.95
+user_2703,2025-11-15,Germany,Fried Wings,358,148.33,53102.14
+user_1133,2024-08-16,USA,Fried Wings,484,124.84,60422.56
+user_616,2026-04-28,China,Chicken Nuggets,270,119.32,32216.4
+user_34,2024-06-03,France,Too Much Grilled Tenders,493,3.57,1760.01
+user_2346,2026-07-21,UK,Hardcore Spicy Tenders,209,158.97,33224.73
+user_4142,2024-07-30,India,Hardcore Spicy Tenders,760,99.01,75247.6
+user_2240,2024-10-10,Japan,Hardcore Spicy Tenders,551,34.62,19075.62
+user_2357,2024-03-22,Germany,Fried Wings,488,102.63,50083.44
+user_806,2025-09-12,France,Fried Wings,308,117.37,36149.96
+user_3533,2024-07-31,Canada,Chicken Nuggets,822,60.21,49492.62
+user_1855,2026-08-16,India,Too Much Grilled Tenders,367,46.27,16981.09
+user_817,2026-08-03,Japan,Chicken Nuggets,826,21.83,18031.58
+user_3391,2025-07-14,Brazil,Hardcore Spicy Tenders,633,115.12,72870.96
+user_2011,2026-07-06,Brazil,Too Much Grilled Tenders,643,21.73,13972.39
+user_390,2025-06-04,France,Spicy Strips,280,24.07,6739.6
+user_3876,2026-07-08,Canada,Too Much Grilled Tenders,33,163.78,5404.74
+user_3212,2024-02-15,Japan,Fried Wings,355,46.37,16461.35
+user_1803,2026-04-04,China,Hardcore Spicy Tenders,494,34.61,17097.34
+user_134,2026-09-27,Japan,Spicy Strips,491,181.24,88988.84
+user_3389,2026-05-23,Japan,Chicken Nuggets,806,131.67,106126.02
+user_2999,2024-02-11,UK,Too Much Grilled Tenders,170,64.04,10886.8
+user_1317,2024-11-16,USA,Chicken Nuggets,133,47.67,6340.11
+user_1469,2026-04-25,India,Fried Wings,466,167.72,78157.52
+user_3423,2024-05-16,India,Hardcore Spicy Tenders,399,54.88,21897.12
+user_4181,2025-11-30,Germany,Hardcore Spicy Tenders,675,47.45,32028.75
+user_844,2026-01-14,Germany,Chicken Nuggets,533,100.67,53657.11
+user_2731,2024-11-23,UK,Too Much Grilled Tenders,959,147.02,140992.18
+user_3050,2025-05-19,Brazil,Grilled Tenders,667,137.83,91932.61
+user_1087,2024-09-21,Canada,Soft Chicken Nuggets,367,81.31,29840.77
+user_1907,2025-08-05,India,Spicy Strips,30,117.68,3530.4
+user_3195,2025-10-24,Germany,Chicken Nuggets,976,76.78,74937.28
+user_4376,2026-03-12,Germany,Soft Chicken Nuggets,517,42.6,22024.2
+user_3591,2024-07-15,Brazil,Grilled Tenders,504,150.94,76073.76
+user_848,2025-10-25,UK,Grilled Tenders,801,169.32,135625.32
+user_2124,2024-04-14,Brazil,Fried Wings,119,19.6,2332.4
+user_3864,2024-01-24,China,Spicy Strips,679,86.54,58760.66
+user_4544,2024-10-14,Canada,Chicken Nuggets,540,163.47,88273.8
+user_1126,2025-01-18,UK,Grilled Tenders,4,5.81,23.24
+user_1962,2024-10-16,Brazil,Grilled Tenders,756,40.18,30376.08
+user_3274,2024-08-29,Canada,Too Much Grilled Tenders,161,18.1,2914.1
+user_727,2024-01-28,China,Chicken Nuggets,48,25.29,1213.92
+user_870,2025-12-09,Canada,Grilled Tenders,166,187.38,31105.08
+user_1161,2024-09-13,Germany,Grilled Tenders,281,22.88,6429.28
+user_4202,2024-04-06,France,Soft Chicken Nuggets,432,152.97,66083.04
+user_905,2024-11-20,India,Chicken Nuggets,131,161.6,21169.6
+user_3506,2025-05-01,Canada,Spicy Strips,397,90.48,35920.56
+user_2741,2025-10-16,China,Soft Chicken Nuggets,450,51.68,23256.0
+user_4696,2026-07-08,USA,Fried Wings,673,128.83,86702.59
+user_3768,2025-10-26,France,Chicken Nuggets,852,52.86,45036.72
+user_3132,2025-10-08,USA,Spicy Strips,934,1.42,1326.28
+user_165,2026-12-11,Japan,Chicken Nuggets,127,99.64,12654.28
+user_4170,2026-03-24,Brazil,Grilled Tenders,656,45.26,29690.56
+user_2131,2025-04-08,India,Soft Chicken Nuggets,696,123.86,86206.56
+user_494,2025-05-09,Brazil,Fried Wings,421,99.27,41792.67
+user_647,2025-10-30,UK,Grilled Tenders,446,120.33,53667.18
+user_213,2026-10-04,France,Grilled Tenders,496,59.6,29561.6
+user_2596,2026-06-11,China,Chicken Nuggets,832,81.25,67600.0
+user_1062,2024-11-04,France,Hardcore Spicy Tenders,402,137.57,55303.14
+user_2259,2026-12-09,Canada,Chicken Nuggets,881,1.01,889.81
+user_1943,2025-07-23,USA,Soft Chicken Nuggets,307,140.34,43084.38
+user_2732,2024-06-07,Canada,Chicken Nuggets,261,79.96,20869.56
+user_2688,2024-07-30,India,Spicy Strips,682,29.8,20323.6
+user_586,2025-12-20,Germany,Fried Wings,118,184.21,21736.78
+user_1176,2024-10-11,India,Soft Chicken Nuggets,353,57.6,20332.8
+user_3096,2024-02-11,Canada,Hardcore Spicy Tenders,243,50.06,12164.58
+user_1148,2024-09-26,UK,Too Much Grilled Tenders,337,32.03,10794.11
+user_2973,2026-09-08,Germany,Hardcore Spicy Tenders,679,75.87,51515.73
+user_4788,2026-01-05,India,Too Much Grilled Tenders,5,138.54,692.7
+user_2261,2026-09-15,France,Chicken Nuggets,132,155.29,20498.28
+user_285,2026-09-03,India,Grilled Tenders,640,198.0,126720.0
+user_3052,2025-07-04,France,Too Much Grilled Tenders,274,94.63,25928.62
+user_2671,2026-02-02,Canada,Spicy Strips,904,47.79,43202.16
+user_51,2025-10-16,USA,Soft Chicken Nuggets,522,54.68,28542.96
+user_2257,2026-08-24,France,Fried Wings,91,90.14,8202.74
+user_935,2024-08-07,China,Fried Wings,109,150.23,16375.07
+user_3697,2025-07-21,USA,Spicy Strips,974,80.21,78124.54
+user_1884,2024-05-05,Canada,Spicy Strips,357,183.89,65648.73
+user_529,2024-07-20,China,Soft Chicken Nuggets,855,35.95,30737.25
+user_4039,2024-04-15,Canada,Chicken Nuggets,607,148.28,90005.96
+user_1490,2026-01-26,Japan,Spicy Strips,968,9.39,9089.52
+user_782,2025-12-25,India,Chicken Nuggets,684,149.98,102586.32
+user_2732,2026-10-07,Japan,Grilled Tenders,927,83.4,77311.8
+user_1782,2024-03-17,Japan,Chicken Nuggets,781,122.39,95586.59
+user_4808,2025-08-13,Japan,Spicy Strips,749,195.89,146721.61
+user_2480,2026-03-15,Canada,Soft Chicken Nuggets,727,111.18,80827.86
+user_3751,2026-09-06,USA,Hardcore Spicy Tenders,84,108.35,9101.4
+user_2567,2026-07-31,Canada,Chicken Nuggets,439,16.91,7423.49
+user_3061,2025-02-12,China,Chicken Nuggets,329,86.08,28320.32
+user_2881,2026-01-31,India,Chicken Nuggets,854,95.91,81907.14
+user_2138,2025-05-23,UK,Soft Chicken Nuggets,628,70.97,44569.16
+user_3888,2024-09-11,France,Chicken Nuggets,53,35.41,1876.73
+user_1667,2025-06-05,Brazil,Chicken Nuggets,16,100.24,1603.84
+user_4722,2025-08-20,Japan,Soft Chicken Nuggets,873,147.34,128627.82
+user_1701,2025-11-07,Japan,Chicken Nuggets,79,162.8,12861.2
+user_4345,2025-05-02,USA,Hardcore Spicy Tenders,908,80.05,72685.4
+user_1753,2025-03-11,Japan,Spicy Strips,283,49.33,13960.39
+user_3184,2026-11-03,Germany,Soft Chicken Nuggets,969,42.29,40979.01
+user_419,2026-11-27,UK,Spicy Strips,43,55.53,2387.79
+user_4020,2025-06-13,USA,Too Much Grilled Tenders,51,156.95,8004.45
+user_3355,2025-03-17,Japan,Hardcore Spicy Tenders,810,65.08,52714.8
+user_1575,2024-04-24,India,Spicy Strips,519,77.87,40414.53
+user_4123,2025-12-23,India,Chicken Nuggets,225,59.51,13389.75
+user_4723,2024-04-12,USA,Grilled Tenders,273,46.18,12607.14
+user_517,2025-10-17,Germany,Fried Wings,535,33.58,17965.3
+user_1068,2024-11-13,Germany,Too Much Grilled Tenders,748,158.25,118371.0
+user_2993,2024-08-26,China,Fried Wings,659,19.44,12810.96
+user_3341,2026-12-24,China,Spicy Strips,733,113.35,83085.55
+user_4716,2025-10-07,India,Too Much Grilled Tenders,903,192.79,174089.37
+user_422,2024-12-02,Germany,Soft Chicken Nuggets,999,8.37,8361.63
+user_3993,2026-09-14,UK,Soft Chicken Nuggets,654,102.1,66773.4
+user_3083,2024-04-09,USA,Hardcore Spicy Tenders,299,149.48,44694.52
+user_1244,2026-01-08,UK,Soft Chicken Nuggets,946,185.84,175804.64
+user_2720,2026-04-16,France,Spicy Strips,407,94.49,38457.43
+user_4651,2026-06-24,UK,Too Much Grilled Tenders,802,160.42,128656.84
+user_2948,2024-01-09,UK,Too Much Grilled Tenders,556,134.09,74554.04
+user_3838,2025-12-31,Japan,Chicken Nuggets,382,137.46,52509.72
+user_4675,2024-03-30,Germany,Chicken Nuggets,513,24.62,12630.06
+user_3181,2025-09-11,China,Fried Wings,174,181.75,31624.5
+user_3724,2025-08-17,UK,Too Much Grilled Tenders,330,1.56,514.8
+user_263,2024-09-30,France,Too Much Grilled Tenders,179,193.53,34641.87
+user_4152,2026-02-16,China,Spicy Strips,548,11.62,6367.76
+user_2028,2024-04-25,Canada,Chicken Nuggets,745,142.38,106073.1
+user_970,2024-08-07,France,Hardcore Spicy Tenders,486,151.0,73386.0
+user_4811,2024-10-23,Japan,Spicy Strips,653,174.24,113778.72
+user_3166,2025-02-03,China,Grilled Tenders,204,98.9,20175.6
+user_498,2024-11-18,Canada,Fried Wings,201,75.33,15141.33
+user_683,2024-12-03,China,Spicy Strips,24,87.9,2109.6
+user_146,2025-01-07,Canada,Fried Wings,264,195.95,51730.8
+user_1833,2024-03-18,Brazil,Chicken Nuggets,721,130.62,94177.02
+user_4291,2026-05-17,India,Fried Wings,195,6.73,1312.35
+user_2743,2025-11-27,China,Fried Wings,456,25.47,11614.32
+user_4292,2026-01-24,Canada,Soft Chicken Nuggets,635,93.02,59067.7
+user_3804,2025-09-28,India,Grilled Tenders,647,163.03,105480.41
+user_2760,2024-08-13,France,Chicken Nuggets,816,166.94,136223.04
+user_1317,2025-04-04,Japan,Grilled Tenders,149,27.81,4143.69
+user_4576,2025-03-24,Canada,Soft Chicken Nuggets,626,13.4,8388.4
+user_3658,2025-11-21,Canada,Chicken Nuggets,168,122.02,20499.36
+user_2193,2026-06-15,India,Too Much Grilled Tenders,630,166.25,104737.5
+user_365,2025-10-24,Germany,Hardcore Spicy Tenders,961,44.81,43062.41
+user_1510,2025-04-21,China,Hardcore Spicy Tenders,541,145.71,78829.11
+user_2716,2024-02-24,Brazil,Soft Chicken Nuggets,961,167.59,161053.99
+user_1249,2026-10-29,India,Fried Wings,320,147.58,47225.6
+user_2979,2024-02-17,USA,Fried Wings,290,35.4,10266.0
+user_1112,2025-07-04,Brazil,Fried Wings,736,99.07,72915.52
+user_4728,2024-01-09,Japan,Fried Wings,922,2.43,2240.46
+user_683,2024-12-26,Germany,Grilled Tenders,197,181.05,35666.85
+user_2781,2024-07-31,China,Soft Chicken Nuggets,527,159.2,83898.4
+user_3024,2025-10-30,Japan,Hardcore Spicy Tenders,382,137.09,52368.38
+user_2674,2026-09-29,Brazil,Chicken Nuggets,765,112.67,86192.55
+user_1606,2026-01-30,India,Fried Wings,800,198.47,158776.0
+user_3694,2026-02-06,Japan,Spicy Strips,524,39.41,20650.84
+user_4163,2024-11-28,Germany,Fried Wings,479,144.4,69167.6
+user_1664,2025-09-22,UK,Chicken Nuggets,768,190.5,146304.0
+user_1441,2024-08-07,Brazil,Grilled Tenders,923,20.08,18533.84
+user_2546,2026-12-18,Canada,Fried Wings,967,144.72,139944.24
+user_4644,2026-12-09,USA,Too Much Grilled Tenders,689,176.44,121567.16
+user_367,2024-05-02,China,Too Much Grilled Tenders,909,139.47,126778.23
+user_1148,2024-06-25,USA,Hardcore Spicy Tenders,477,165.83,79100.91
+user_2319,2024-05-03,UK,Spicy Strips,547,115.54,63200.38
+user_1271,2025-08-18,Japan,Soft Chicken Nuggets,742,59.34,44030.28
+user_4823,2024-12-15,Canada,Too Much Grilled Tenders,41,26.39,1081.99
+user_3423,2024-06-01,Japan,Spicy Strips,748,164.76,123240.48
+user_4570,2026-09-23,UK,Grilled Tenders,181,143.69,26007.89
+user_1395,2026-09-07,India,Chicken Nuggets,14,4.97,69.58
+user_1164,2025-01-07,Germany,Spicy Strips,693,67.26,46611.18
+user_4115,2026-06-03,France,Too Much Grilled Tenders,170,76.38,12984.6
+user_4866,2024-09-26,Japan,Spicy Strips,509,31.84,16206.56
+user_2321,2025-12-09,Canada,Too Much Grilled Tenders,168,116.84,19629.12
+user_130,2026-09-15,China,Chicken Nuggets,834,127.72,106518.48
+user_3383,2024-04-08,Brazil,Chicken Nuggets,213,183.04,38987.52
+user_1414,2024-03-20,France,Soft Chicken Nuggets,512,174.29,89236.48
+user_3285,2025-06-17,China,Spicy Strips,838,144.4,121007.2
+user_1874,2026-07-03,China,Grilled Tenders,838,126.48,105990.24
+user_202,2026-07-08,USA,Hardcore Spicy Tenders,812,183.01,148604.12
+user_292,2026-01-11,Brazil,Grilled Tenders,982,154.73,151944.86
+user_3553,2025-09-02,Canada,Fried Wings,886,181.94,161198.84
+user_3147,2024-11-19,France,Grilled Tenders,583,116.25,67773.75
+user_2255,2024-06-29,Canada,Chicken Nuggets,948,30.13,28563.24
+user_641,2026-12-17,Japan,Soft Chicken Nuggets,566,139.47,78940.02
+user_4490,2024-01-27,Germany,Hardcore Spicy Tenders,540,168.93,91222.2
+user_2871,2024-09-02,India,Fried Wings,430,104.17,44793.1
+user_2415,2026-06-06,France,Too Much Grilled Tenders,245,64.32,15758.4
+user_4582,2024-10-17,Brazil,Soft Chicken Nuggets,931,73.8,68707.8
+user_2066,2025-10-21,Brazil,Chicken Nuggets,989,159.66,157903.74
+user_2519,2024-01-27,UK,Hardcore Spicy Tenders,566,93.89,53141.74
+user_1005,2026-08-22,USA,Too Much Grilled Tenders,746,144.59,107864.14
+user_1304,2024-10-09,Brazil,Hardcore Spicy Tenders,269,181.43,48804.67
+user_1702,2024-05-20,India,Grilled Tenders,296,187.29,55437.84
+user_4562,2025-03-02,China,Too Much Grilled Tenders,451,16.84,7594.84
+user_3804,2026-04-28,India,Chicken Nuggets,739,11.12,8217.68
+user_2086,2026-01-27,India,Hardcore Spicy Tenders,951,157.75,150020.25
+user_3880,2026-04-04,China,Soft Chicken Nuggets,346,163.19,56463.74
+user_4878,2024-09-23,Japan,Spicy Strips,833,168.68,140510.44
+user_3976,2024-02-25,France,Grilled Tenders,955,113.89,108764.95
+user_208,2026-09-05,USA,Soft Chicken Nuggets,529,64.29,34009.41
+user_2359,2025-05-21,France,Soft Chicken Nuggets,682,76.4,52104.8
+user_901,2024-03-14,UK,Spicy Strips,854,91.35,78012.9
+user_3867,2025-07-01,Canada,Soft Chicken Nuggets,155,73.69,11421.95
+user_3426,2024-06-12,Germany,Fried Wings,17,6.89,117.13
+user_4062,2025-03-15,UK,Spicy Strips,845,59.91,50623.95
+user_2259,2025-08-28,Brazil,Hardcore Spicy Tenders,213,87.13,18558.69
+user_3129,2025-03-03,USA,Spicy Strips,553,7.22,3992.66
+user_129,2026-09-05,China,Soft Chicken Nuggets,933,45.66,42600.78
+user_52,2024-08-09,India,Too Much Grilled Tenders,549,89.49,49130.01
+user_1577,2025-10-06,USA,Fried Wings,336,190.44,63987.84
+user_130,2024-03-22,UK,Hardcore Spicy Tenders,319,166.04,52966.76
+user_297,2025-10-26,France,Soft Chicken Nuggets,144,176.42,25404.48
+user_1812,2026-06-07,Brazil,Chicken Nuggets,163,10.22,1665.86
+user_2910,2025-03-08,UK,Fried Wings,327,23.35,7635.45
+user_103,2024-03-12,UK,Chicken Nuggets,224,168.42,37726.08
+user_1796,2024-12-22,India,Too Much Grilled Tenders,181,2.47,447.07
+user_1555,2024-10-14,China,Soft Chicken Nuggets,687,90.39,62097.93
+user_2858,2025-09-07,Brazil,Spicy Strips,113,27.32,3087.16
+user_4972,2025-04-28,India,Soft Chicken Nuggets,179,39.82,7127.78
+user_171,2024-06-25,Canada,Too Much Grilled Tenders,476,188.12,89545.12
+user_708,2024-07-31,UK,Spicy Strips,997,136.09,135681.73
+user_798,2025-05-02,India,Too Much Grilled Tenders,624,50.59,31568.16
+user_2213,2026-09-19,China,Grilled Tenders,108,64.93,7012.44
+user_1704,2025-09-27,Brazil,Chicken Nuggets,345,12.66,4367.7
+user_4088,2024-11-13,France,Chicken Nuggets,59,175.02,10326.18
+user_2487,2024-04-23,France,Spicy Strips,589,175.39,103304.71
+user_2750,2025-05-12,Germany,Grilled Tenders,619,40.89,25310.91
+user_3380,2024-08-30,India,Hardcore Spicy Tenders,8,77.38,619.04
+user_2757,2025-03-17,Germany,Fried Wings,639,198.66,126943.74
+user_3420,2025-05-17,Canada,Hardcore Spicy Tenders,88,89.95,7915.6
+user_4509,2025-07-27,USA,Too Much Grilled Tenders,507,116.76,59197.32
+user_2513,2024-02-24,Germany,Hardcore Spicy Tenders,866,124.61,107912.26
+user_1185,2026-01-27,France,Too Much Grilled Tenders,705,112.52,79326.6
+user_792,2025-06-28,France,Hardcore Spicy Tenders,897,96.47,86533.59
+user_2592,2025-02-17,France,Hardcore Spicy Tenders,36,46.36,1668.96
+user_4450,2024-04-29,Brazil,Grilled Tenders,586,71.52,41910.72
+user_2577,2026-12-09,Germany,Hardcore Spicy Tenders,971,24.45,23740.95
+user_555,2025-08-11,France,Spicy Strips,935,147.96,138342.6
