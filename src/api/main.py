@@ -2,7 +2,6 @@ from fastapi import FastAPI, Query
 from pydantic import BaseModel
 from datetime import date
 from typing import List, Union, Optional
-from src.storage.json_writer import write_feedbacks_raw
 from src.db.connection import get_connection
 
 app = FastAPI(title="AFC Feedback API")
@@ -20,7 +19,7 @@ class Feedback(BaseModel):
 
 
 # ─────────────────────────────────────────
-# POST — ingest feedback
+# POST — ingest feedback directly into DB
 # ─────────────────────────────────────────
 
 @app.post("/feedback")
@@ -30,13 +29,23 @@ def receive_feedbacks(payload: Union[Feedback, List[Feedback]]):
     else:
         feedbacks = payload
 
-    feedback_dicts = [fb.model_dump() for fb in feedbacks]
-    file_path = write_feedbacks_raw(feedback_dicts)
+    conn = get_connection()
+    cur = conn.cursor()
+
+    for fb in feedbacks:
+        cur.execute("""
+            INSERT INTO feedback (username, feedback_date, campaign_id, comment)
+            VALUES (%s, %s, %s, %s)
+            ON CONFLICT DO NOTHING
+        """, (fb.username, str(fb.feedback_date), fb.campaign_id, fb.comment))
+
+    conn.commit()
+    cur.close()
+    conn.close()
 
     return {
         "status": "stored",
-        "count": len(feedbacks),
-        "file": str(file_path)
+        "count": len(feedbacks)
     }
 
 
