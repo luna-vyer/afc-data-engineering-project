@@ -5,12 +5,7 @@ services:
     ports:
       - "3000:3000"
     environment:
-      MB_DB_TYPE: postgres
-      MB_DB_DBNAME: ${DATABASE_NAME}
-      MB_DB_PORT: 5432
-      MB_DB_USER: ${DATABASE_USER}
-      MB_DB_PASS: ${DATABASE_PASSWORD}
-      MB_DB_HOST: ${DATABASE_HOST}
+      MB_DB_CONNECTION_URI: "jdbc:postgresql://${DATABASE_HOST}:5432/${DATABASE_NAME}?user=${DATABASE_USER}&password=${DATABASE_PASSWORD}&sslmode=require"
 
 volumes:
   postgres_data:
