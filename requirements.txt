@@ -5,3 +5,4 @@ psycopg2-binary
 langdetect
 deep-translator
 vaderSentiment
+python-dotenv
